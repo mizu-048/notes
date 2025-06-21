@@ -11,36 +11,23 @@
 - Least Count measures precision
 - Precision: How detailed a measurement is
   Accuracy: How correct a measurement is
-- Young's Modulus, Pressure, Stress and ==Energy Density== have same dimensions $$\begin{array}{|c|c|c|}
-\hline
-\textbf{Quantity} & \textbf{Definition} & \textbf{Dimensions} \\
-\hline
-\text{Young's Modulus} & \text{Measure of stiffness (stress/strain)} & M L^{-1} T^{-2} \\
-\hline
-\text{Pressure} & \text{Force per unit area}(F/A) & M L^{-1} T^{-2} \\
-\hline
-\text{Stress} & \text{Force applied per unit area}(F/A) & M L^{-1} T^{-2} \\
-\hline
-\text{Energy Density} & \text{Energy per unit volume} (E/V) & M L^{-1} T^{-2} \\
-\hline
-\end{array}
-$$
-- $$
-\begin{array}{|c|c|c|c|}
-\hline
-\textbf{Shape} & \textbf{Volume} & \textbf{Perimeter} & \textbf{Area} \\
-\hline
-\text{Sphere} & \dfrac{4}{3} \pi r^3 & \text{N/A} & 4 \pi r^2 \\
-\hline
-\text{Circle} & \text{N/A} & 2 \pi r & \pi r^2 \\
-\hline
-\text{Square} & \text{N/A} & 4a & a^2 \\
-\hline
-\end{array}
-$$
+- Young's Modulus, Pressure, Stress and ==Energy Density== have same dimensions 
 
+| **Quantity**       | **Definition**                                | **Dimensions**      |
+|--------------------|-----------------------------------------------|---------------------|
+| Young's Modulus    | Measure of stiffness (stress/strain)          | M L⁻¹ T⁻²           |
+| Pressure           | Force per unit area (F/A)                     | M L⁻¹ T⁻²           |
+| Stress             | Force applied per unit area (F/A)             | M L⁻¹ T⁻²           |
+| Energy Density     | Energy per unit volume (E/V)                  | M L⁻¹ T⁻²           |
+
+| **Shape** | **Volume**             | **Perimeter** | **Area**     |
+|-----------|------------------------|---------------|--------------|
+| Sphere    | (4/3) π r³             | N/A           | 4 π r²       |
+| Circle    | N/A                    | 2 π r         | π r²         |
+| Square    | N/A                    | 4a            | a²           |
 
 ## 2: Vectors -
+
 ![3d axes.png|center|400](/img/user/Notes/Entry%20Test/attachments/3d%20axes.png)
 - resolving = splitting into components
 - minimum no. components = 2
@@ -49,15 +36,12 @@ $$
 - Modulus = Magnitude = $\sqrt{A_x^2+A_y^2+A_z^2}$
 - angle with $x = \theta = Tan^{-1}\dfrac{Ay}{Ax}$
 - west is on the left, east is the right
-- $$\begin{array}{|c|c|c|c|c|}
-\hline
-\textbf{OperationC} & \textbf{Trigonometric Formula} & \textbf{Component Formula} & \textbf{Perpendicular} & \textbf{Parallel} \\
-\hline
-\text{Dot Product} & \mathbf{A} \cdot \mathbf{B} = |\mathbf{A}| |\mathbf{B}| \cos \theta & \mathbf{A} \cdot \mathbf{B} = A_x B_x + A_y B_y + A_z B_z & 0 \text{ if } \theta = 90^\circ & \text{Max. if } \theta = 0^\circ \\
-\hline
-\text{Cross Product} & \mathbf{A} \times \mathbf{B} = |\mathbf{A}| |\mathbf{B}| \sin \theta \, \hat{n} & \mathbf{A} \times \mathbf{B} = \begin{vmatrix} \hat{i} & \hat{j} & \hat{k} \\ A_x & A_y & A_z \\ B_x & B_y & B_z \end{vmatrix} & \text{Max. if } \theta = 0^\circ & 0 \text{ if } \theta = 180^\circ \\
-\hline
-\end{array}$$
+
+| **Operation**     | **Trigonometric Formula**                                                                 | **Component Formula**                                                                                                            | **Perpendicular**          | **Parallel**              |
+| ----------------- | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ------------------------- |
+| **Dot Product**   | $\vec{\mathbf{A}} \times\vec{\mathbf{B}} = \mathbf{A} \mathbf{B} \cos \theta$             | $\mathbf{A} \cdot \mathbf{B} = A_x B_x + A_y B_y + A_z B_z$                                                                      | $0$ if $\theta = 90^\circ$ | Max if $\theta = 0^\circ$ |
+| **Cross Product** | $\vec{\mathbf{A}} \cdot  \vec{\mathbf{B}} =\mathbf{A} \mathbf{B}  \sin \theta \, \hat{n}$ | $\mathbf{A} \times \mathbf{B} = \begin{vmatrix} \hat{i} & \hat{j} & \hat{k} \\ A_x & A_y & A_z \\ B_x & B_y & B_z \end{vmatrix}$ | Max if $\theta = 90^\circ$ | $0$ if $\theta = 0^\circ$ |
+
 - if sum of two forces of same magnitude is equal to the individual force, the angel $\theta = 120^\circ$
 - projection **of B** *on* **A** where $\theta$ is the angle b/w them is: = component of B along A = $|B|\cos\theta$ = $\dfrac{\vec{A}\vec{B}}{|A|} = \vec{B}\hat{A}$
 - Resultant of two vectors $\vec{A}  \text{ and }  \vec{ B}$  with same initial at an angle $\theta$ is: $R=\sqrt{ |A|^{2}+|B|^{2}-2|A||B|\cos\theta }$
