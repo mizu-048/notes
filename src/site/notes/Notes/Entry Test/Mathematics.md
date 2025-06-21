@@ -134,8 +134,7 @@ $$
 - Fourth roots of 16 are: $2i,-2i,2,-2$
 - sum of fourth roots is zero
 - if $a$ is root of polynomial equation $P(x)$ then $P(a)$ is zero
-- $$
-\begin{align}
+- $$\begin{align}
  \\
 \omega^3 = \omega^2 \times \omega \times 1= 1 \\
  \\
