@@ -134,16 +134,11 @@ $$
 - Fourth roots of 16 are: $2i,-2i,2,-2$
 - sum of fourth roots is zero
 - if $a$ is root of polynomial equation $P(x)$ then $P(a)$ is zero
-- $$\begin{align}
- \\
-\omega^3 = \omega^2 \times \omega \times 1= 1 \\
- \\
-\omega^2 + \omega + 1 = 0 \\
- \\
-\omega  = \dfrac{-1 + i\sqrt{3}}{2}  \\
- \\
-\omega^2  =\dfrac{-1 - i\sqrt{3}}{2} \\
- \\
+$$\begin{align}
+\omega^3 = \omega^2 \times \omega \times 1= 1 \\ \\
+\omega^2 + \omega + 1 = 0 \\ \\
+\omega  = \dfrac{-1 + i\sqrt{3}}{2}  \\ \\
+\omega^2  =\dfrac{-1 - i\sqrt{3}}{2} \\ \\
 \omega  = \dfrac{1}{\omega^2};\qquad \omega
 { #2}
 = \dfrac{1}{\omega} 
