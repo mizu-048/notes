@@ -52,7 +52,7 @@
 	  if either of any among these pairs is -ve then simply separate it and solve
 	  e.g. $i\times (-j)=-(i\times j)=-(k)=-k$
 >[!question]- $\hat{i}.(\hat{j}\times \hat{k})$ equals? 
- >a)0$\qquad$b)3$\qquad$**c)1**$\qquad$d)-1
+>a)0$\qquad$b)3$\qquad$**c)1**$\qquad$d)-1
   
   
 ## 3: Motion and Forces+
@@ -69,8 +69,8 @@
 | $2aS = V_f^2 - V_i^2$          | $\text{Impulse}=F \times t = \Delta P$ |                                           |
 |                                |                                        |                                           |
 >[!question]- a baseball is hit straight up and is caught 2 seconds later, the maximum height reached is? 
- >**a)4.9m**$\qquad$b)9.8m$\qquad$c)12.6m$\qquad$d)19.6m
- >
+>**a)4.9m**$\qquad$b)9.8m$\qquad$c)12.6m$\qquad$d)19.6m
+>
  
  it took 1 sec to go up and 1 sec to come down, $S=V_{i}t+\dfrac{1}{2}gt^{2}$
  
@@ -90,12 +90,12 @@
 - Work = Energy $= J = kWh$
 - $P_{ower} =\dfrac{W}{\Delta t}= F \times v$ 
 - Work = Change in energy = $\dfrac{1}{2}mv_{o}^{2} - \dfrac{1}{2}mv^{2}$
-  >[!question]- Under the influence of a force, an object of mass 4 kg accelerates from 3 m/s to 6 m/s in 8s. How much work was done on the object during this time? 
- >**a)54J**$\qquad$b)96J$\qquad$c)72J$\qquad$d)27J
+>[!question]- Under the influence of a force, an object of mass 4 kg accelerates from 3 m/s to 6 m/s in 8s. How much work was done on the object during this time? 
+>**a)54J**$\qquad$b)96J$\qquad$c)72J$\qquad$d)27J
   
 - ==Torque==  $= τ=r⋅F⋅sin(θ)$
-  >[!question]- If torque produced is $300 Nm$ by force $250 N$ and moment arm $4 m$, then $\theta$ is: 
- >a)73$\qquad$**b)17**$\qquad$c)43$\qquad$d)45
+>[!question]- If torque produced is $300 Nm$ by force $250 N$ and moment arm $4 m$, then $\theta$ is: 
+>a)73$\qquad$**b)17**$\qquad$c)43$\qquad$d)45
   
 - Power of a motor torque: $P = τ \times \omega$
 - $F\times t= \Delta P=\Delta(mv)$ ( ==impulse== = change in momentum)
@@ -118,7 +118,7 @@
 
 - work done for the same mass of object is dependent on the height reached or distance covered
 >[!question]- A man lifts a body to a height of 1m in 30s. An other man lifts the same mass to same height in 60s. The work done my them is in the ratio: 
- >a)1:2$\qquad$**b)1:1**$\qquad$c)2:1$\qquad$d)4:1
+>a)1:2$\qquad$**b)1:1**$\qquad$c)2:1$\qquad$d)4:1
 
 - Friction: **opposition** force
 	- $F=\mu N;\qquad$ where $\mu$ is the coefficient of friction(unitless) and $N$ is the normal force between the surfaces
@@ -194,10 +194,10 @@ written as ==80/120==
 	ascending   : $g + a$ : increased 
 
 >[!question]- A simple pendulum suspended from the ceiling of a stationary lift has period $T_{o}$ when the lift descends at steady speed the period is $T_{1}$ and when it descends with constant downward acceleration the period is $T_{2}$, which one of the following is correct. 
- >a)$T_{o} = T_{1} = T_{2}$$\qquad$b)$T_{o} < T_{1} < T_{2}$$\qquad$**c)**$T_{o} = T_{1} < T_{2}$$\qquad$d)$T_{o} > T_{1} > T_{2}$
+>a)$T_{o} = T_{1} = T_{2}$$\qquad$b)$T_{o} < T_{1} < T_{2}$$\qquad$**c)**$T_{o} = T_{1} < T_{2}$$\qquad$d)$T_{o}> T_{1}> T_{2}$
   
-  >[!question]- a lift is moving upwards with acceleration "a", the time period of a pendulum in the life becomes:
- >a)increased$\qquad$**b)decreased**$\qquad$c)same$\qquad$d)zero
+>[!question]- a lift is moving upwards with acceleration "a", the time period of a pendulum in the life becomes:
+>a)increased$\qquad$**b)decreased**$\qquad$c)same$\qquad$d)zero
   
 
 | Extreme Position             | Mean Position               |
@@ -225,23 +225,23 @@ written as ==80/120==
 	- $x = x_{\circ}\sin \omega t$ : mean position
 	- $x = x_{\circ}\cos \omega t$ : extreme position
 >[!question]- ‘The displacement of a body executing SHM is given by the relation $x = x_{\circ}\sin \omega t$, the intial phase is:
- >**a)0⁰**$\qquad$b)45⁰$\qquad$c)90⁰$\qquad$d)60⁰
+>**a)0⁰**$\qquad$b)45⁰$\qquad$c)90⁰$\qquad$d)60⁰
   
 
 - Hook's law: $F= -kx;\qquad$where $k$ is the force constant
 	- force constant has same unit as surface tension: $Fm^{-1}$
 - ==second pendulum==: pendulum with a time period of 2 seconds or frequency of $\dfrac{1}{2}=0.5$ hertz
-  >[!question]- Length of second pendulum on earth is 
- >a)1m$\qquad$**b)0.99m**$\qquad$c)0.5m$\qquad$d)none
+>[!question]- Length of second pendulum on earth is 
+>a)1m$\qquad$**b)0.99m**$\qquad$c)0.5m$\qquad$d)none
   
-  >[!question]- Time period of second pendular on mars is: 
- >a)1 sec$\qquad$**b)2 sec**$\qquad$c)0.66 sec$\qquad$d)3 sec
+>[!question]- Time period of second pendular on mars is: 
+>a)1 sec$\qquad$**b)2 sec**$\qquad$c)0.66 sec$\qquad$d)3 sec
 
 - System under forced vibrations is **Driven Harmonic Oscillator**
 ## 8: Waves
 - $v=\lambda f$
 >[!question]-  A source of sound frequency 600Hz is placed inside the water. The speed of sound in water is 1500m/s and in air it is 300ms. The frequency of sound recorded by am observer who is standing on air is
- >a)$tb$$\qquad$b)$tb$$\qquad$c)$tb$$\qquad$d)$tb$
+>a)$tb$$\qquad$b)$tb$$\qquad$c)$tb$$\qquad$d)$tb$
   
 
 | Doppler effect               | Shift                                     | Wavelength | Frequency |
@@ -254,9 +254,9 @@ $$
 - speed of sound $\approx 340ms ^{-1}$ and **does not directly depend on pressure
 - $\dfrac{V_{1}}{V_{2}}=\sqrt{ \dfrac{T_{1}}{T_{2}}};\qquad \text{Temp is in Kelvin}$
   
-  $T_{2}=n^{2}\times T_{1};\qquad n=\text{no. of times speed of sound}$ and $T_{2} > T_{1}$ 
+  $T_{2}=n^{2}\times T_{1};\qquad n=\text{no. of times speed of sound}$ and $T_{2}> T_{1}$ 
 >[!question]-  The temperature at which velocity of sound in air is two times of its velocity at 10°C
- >a)1132°C$\qquad$**b)859°C**$\qquad$c)658K$\qquad$d)900°C
+>a)1132°C$\qquad$**b)859°C**$\qquad$c)658K$\qquad$d)900°C
 
 $T_{2}=4\times T_{1}=4\times 283K=1132K=859°C$
 
@@ -264,7 +264,7 @@ $T_{2}=4\times T_{1}=4\times 283K=1132K=859°C$
 - $\dfrac{V_{1}}{V_{2}}=\sqrt{ \dfrac{M_{o}}{M_{h}}}$
 
 >[!question]- Speed of sound in hydrogen, with respect to oxygen: 
- >a)2 times$\qquad$b)4 times$\qquad$c)$\dfrac{1}{4}$ times$\qquad$d)$\dfrac{1}{2}\times$
+>a)2 times$\qquad$b)4 times$\qquad$c)$\dfrac{1}{4}$ times$\qquad$d)$\dfrac{1}{2}\times$
 
 taking molar mass instead of density as they are proportional, $M_{h}=2,\ M_{o}=32$
   - rarer to denser: 
@@ -311,12 +311,12 @@ taking molar mass instead of density as they are proportional, $M_{h}=2,\ M_{o}=
 - speed of sound increases in air by $0.61m s ^{-1}$ per **1 Kelvin increase**
 - sound has double speed in air at 819°C than it does at 0°C
 - in any wave, crust and trough are separated by half a wave: $\dfrac{\lambda}{2}$
-- Ultrasonic: > 20kHz
+- Ultrasonic:> 20kHz
 - beats per second:
 	- difference of interfering waves= $f_{2}-f_{1}=beats;\qquad$ where $f_{2}$ is greater
   
 >[!question]- A tuning fork of frequency 50 Hz when sounded with another fork, 6 beats heard. 
- >a)100Hz$\qquad$b)50Hz$\qquad$**c)44Hz**$\qquad$d)256Hz
+>a)100Hz$\qquad$b)50Hz$\qquad$**c)44Hz**$\qquad$d)256Hz
 
 
 - Applications of super-position:
@@ -350,7 +350,7 @@ $$
   Isothermal: at constant temperature
 - Work done on an isothermal gas with volume change: $W = nRT \ln\left(\frac{V_1}{V_2}\right)$
 >[!question]-  gas expands isothermally from volume $V_{1} =2V_{1}$​. The work done by the gas is: 
- >a)$RT\ln 2$$\qquad$**b)**$nRT\ln 2$$\qquad$c)$P_{1}V_{1}\ln 2$$\qquad$d)Zero
+>a)$RT\ln 2$$\qquad$**b)**$nRT\ln 2$$\qquad$c)$P_{1}V_{1}\ln 2$$\qquad$d)Zero
   
   Isobaric: at constant pressure
 - entropy is a measure of randomness/disorder
@@ -464,7 +464,7 @@ B B ~={red}R=~ O Y ~={green}G=~ ~={blue}B=~ ~={magenta}V=~ ~={yellow}Y=~ W
 | force on charge in magnetic field        | $F = q(v\times b)$                                     | no force on stationary charge,<br>no work is done<br>no change in K.E<br> |
 | force on charge in electric field        | $F = q\times E$                                        |                                                                           |
 >[!question]-  A wire carrying current $I$ is bent into a circular loop of radius $R$. The magnetic field at the center of the loop is $B$. If the radius is doubled while keeping the current constant, the new magnetic field will be:
- >a)$4B$$\qquad$b)$2B$$\qquad$**c)**$\dfrac{B}{2}$$\qquad$d)$\dfrac{B}{4}$
+>a)$4B$$\qquad$b)$2B$$\qquad$**c)**$\dfrac{B}{2}$$\qquad$d)$\dfrac{B}{4}$
   
 - Lorentz Force = **Vector** sum of magnetic and electric forces 
   = $\sqrt{[q(V\times B)]^2 + (qE)^2} = \sqrt{{F_{e}}^2+{F_{m}}^2}$
@@ -479,7 +479,7 @@ B B ~={red}R=~ O Y ~={green}G=~ ~={blue}B=~ ~={magenta}V=~ ~={yellow}Y=~ W
   but magnitude of induced emf depends on rate of change of flux
 - $\dfrac{N_{s}}{N_{p}}\text{ is the transformer ratio, not } \dfrac{N_{p}}{N_{s}}$
 - $\dfrac{N_{s}}{N_{p}} = \dfrac{V_{s}}{V_{p}} = \dfrac{I_{p}}{I_{s}}$
-- Step up: $N_{s} > N_{p}$
+- Step up: $N_{s}> N_{p}$
   Step down: $N_{s} < N_{p}$
 - A.C generator: Slip Rings
   D.C generator: Split Rings
@@ -630,7 +630,7 @@ where:
 |                |        |                    |                                                 |              |
 - depletion regions increases(reverse bias) and decreases both due to majority charge carriers
 - 
-- Emitter current > collector current > base current
+- Emitter current> collector current> base current
   $I_{e} = I_{c}+I_{b}$
 - AND can be represented by two switches in series
   OR can be represented by two switches in parallel
@@ -651,10 +651,13 @@ where:
 | Stefan's  | $5.67 × 10^{-8} \ Wm^{-2}K^{-4}$ | $\sigma$ |
 | Wien's    | $2.9 \times 10^{-3} \ mK$        |          |
 | Planck's  | $6.63 \times 10^{-31} \ Js$      |          |
-- Relation between energy of emitted photons and temperature: $$\begin{align}
+- Relation between energy of emitted photons and temperature: 
+  $$
+  \begin{align}
 E = &  \sigma  \ T^{4} \\
  \text{Frequency of emitted photon} \qquad \propto \qquad  & \dfrac{1}{ \text{Wavelength}} \propto  \qquad\text{Temperature}
-\end{align}$$
+\end{align}
+$$
 - $1 eV = 1.6 \times 10^{-19}J$ $$   \text{ eV  } \ce{->[\times 1.6 \times 10^{-19}] Joule }$$
 
 | at high(relativistic) speeds of observer<br>and as speed increases | at speed of light | become double<br>when v= | becomes half at |
@@ -717,7 +720,7 @@ $$
 
 - any color shown on an object is the color not absorbed
 >[!question]- a red colored cloth__ red light
- >a)transmit$\qquad$**b)reflect**$\qquad$c)refract$\qquad$d)absorb
+>a)transmit$\qquad$**b)reflect**$\qquad$c)refract$\qquad$d)absorb
 
 ## 21: Nuclear Physics
 - muons have same charge as electrons
@@ -735,19 +738,19 @@ $$
   - humans emit IR
   - decay calculation: $\underbrace{ N }_{ \text{remaining}} = \dfrac{\overbrace{ N_{o} }^{ \text{orignal amount}}}{2^{n}},\qquad n=\dfrac{\overbrace{ t }^{\text{time elapsed}}}{\underbrace{ T }_{ \text{half life} }}$
 >[!question]- Half-life of radioactive isotope with initial mass 1 kg is 19 minutes. How much mass is decayed in 57 minutes? 
- >a)125g$\qquad$**b)875g**$\qquad$c)250g$\qquad$d)750g
+>a)125g$\qquad$**b)875g**$\qquad$c)250g$\qquad$d)750g
 
 decayed = $N_{o}-N$
 - rate of decay: activity:  $\underbrace{ A }_{ \text{remaining}} = \dfrac{\overbrace{ A_{o} }^{ \text{orignal amount}}}{2^{n}},\qquad n=\dfrac{\overbrace{ t }^{\text{time elapsed}}}{\underbrace{ T }_{ \text{half life} }}$
-  >[!question]-  In 420 days, the activity of a sample of polonium (Po) fell to $\dfrac{1}{8}$th of its initial value. The half life of polonium is
- >a)280 days$\qquad$b)70 days$\qquad$**c)140 days**$\qquad$d)210 days
+>[!question]-  In 420 days, the activity of a sample of polonium (Po) fell to $\dfrac{1}{8}$th of its initial value. The half life of polonium is
+>a)280 days$\qquad$b)70 days$\qquad$**c)140 days**$\qquad$d)210 days
   
  $\dfrac{A_{o}}{8}=\dfrac{A_{o}}{2^{\frac{t}{T}}};\qquad {2}^{3}=2^{\frac{420}{T}};\qquad T=\dfrac{420}{3}=140$ 
   
 - only noble gases are used in GM counters
 - forces in nature occur in pairs
 - fission of two deuterons, releases 1 neutron
-- Fast moving Neutron: K.E > 1KeV
+- Fast moving Neutron: K.E> 1KeV
 - X-rays are unaffected by magnetic field
 - if $\alpha$-alpha is release:
 $$
@@ -758,7 +761,7 @@ $$
 X^{A} \longrightarrow Y^{A}_{Z+1}+ \beta^{0}_{-1} ;
 $$
 >[!question]- A nucleus $X^{A}_{Z}$ emits an $\alpha$-particle. The resultant nucleus emits a $\beta^{+}$particle. The respective atomic and mass number of the final nucleus will be:
- >**a)Z-3, A-4**$\qquad$b)Z-1, A-4$\qquad$c)Z-2, A-4$\qquad$d)Z, A-2
+>**a)Z-3, A-4**$\qquad$b)Z-1, A-4$\qquad$c)Z-2, A-4$\qquad$d)Z, A-2
 
 $\beta^{+}$ was emitted not $\beta^{-}$ 
 
@@ -766,8 +769,8 @@ if $\gamma$-gamma is released
 $$
 X^{*} \longrightarrow X^{}+ \text{photon}
 $$
-  >[!question]- $X^{A}_{Z}\to X^{A}_{Z+1}\to X^{*A-4}_{Z-1}\to X^{A-4}_{Z-1}$ 
- >a)$\alpha, \beta,\gamma$$\qquad$**b)**$\beta,\alpha,\gamma$$\qquad$c)$\gamma,\beta,\alpha$$\qquad$d)$\beta,\gamma,\alpha$
+>[!question]- $X^{A}_{Z}\to X^{A}_{Z+1}\to X^{*A-4}_{Z-1}\to X^{A-4}_{Z-1}$ 
+>a)$\alpha, \beta,\gamma$$\qquad$**b)**$\beta,\alpha,\gamma$$\qquad$c)$\gamma,\beta,\alpha$$\qquad$d)$\beta,\gamma,\alpha$
   
 - at least one alpha and two beta emissions are required for an isotope
 - 
@@ -776,7 +779,7 @@ $$
 | ---------- | ------------------------------------------------------- | ------------------ | --------------------- | --- |
 | isotope    | same atomic number, different mass number               | $1 \alpha, 2\beta$ | $H^{1}_{1},H^{2}_{1}$ |     |
 | isobars    | same mass number, different atomic number               | $1\beta$           | $H^{3}_{2},H^{3}_{1}$ |     |
-| isotons    | same mass number, same proton number, different neutron | no >:(             |                       |     |
+| isotons    | same mass number, same proton number, different neutron | no>:(             |                       |     |
 | isodiapers | different mass, atomic number, and neutrons             | $1 \alpha$         |                       |     |
 
 - 
