@@ -8,11 +8,21 @@
 | **Commutative Law** | $a \oplus b = b \oplus a$                            | The order of applying the operation does not affect the result.                                  |
 | **Associative Law** | $(a \oplus b) \oplus c = a \oplus (b \oplus c)$      | The grouping of operands does not affect the result.                                             |
 | **Closure Law**     | $a,b \in S, a \oplus b \in S$ (where $S$ is the set) | The result of applying the operation to two elements from a set is still an element of that set. |
+>[!question]- If A and B are real numbers then A+B is a real number This law is called  
+ >**a)Closure**$\qquad$b)Commutative$\qquad$c)Associative$\qquad$d)Distributive
+  
 Supplementary angles: whose sum is 180(degree)
 # Part 1
 ## 1: Number System -+
 - $a + bi = (a,b )$
-- $i^{2n}= -1$ ; $i^{3n}= -i$ ; $i^{4n}= 1$ 
+	- $i^{2n}= -1$ ;
+	- $i^{3n}= -i$ ;
+	- $i^{4n}= 1$ 
+>[!question]- $(-i)^{31}$  
+>**a)**$i$$\qquad$b)$-i$$\qquad$c)1$\qquad$d)-1
+  
+  $(-1)^{31}\times(i)^{30}\times i= (-1)\times(-1)^{15}\times i=i$ -
+  
 - when solving $(a+bi)^{n}$ you can make it  simpler by doing $[(a+bi)^{2}]^{n/2}$
 >[!question]-  $(\frac{1+i}{\sqrt{2}})^8=$ ? 
  >a)$tb$$\qquad$b)$tb$$\qquad$c)$tb$$\qquad$d)$tb$
@@ -20,17 +30,36 @@ Supplementary angles: whose sum is 180(degree)
 
 $\dfrac{[(1+i)^{2}]^{4}}{\sqrt{ 2 }^{8}}=\dfrac{(1+(-1)+2i)^{4}}{16}=\dfrac{16(-1)^{2}}{16}$
 
-- Modulus or Absolute value = $r = \sqrt{a^2 + b^2}$
+- Modulus or Absolute value=$|Z|$ = $r = \sqrt{a^2 + b^2}$
 - argument = $\theta = \tan^{-1}\left(\dfrac{b}{a}\right)$
-- Euler formula and De-Moivre's theorem for complex numbers also called polar forms are: $a + bi = re^{i\theta} = r(Cos\theta + iSin\theta)$
+- theorem for complex numbers also called polar forms are: 
+	- De-moivre's: $(a + bi)^{n} = r^{n}(Cos(n\theta) + iSin (n\theta))$
+	- Euler formula: $re^{i\theta} = r(Cos\theta + iSin\theta)$
+- polar co-ordinates of a point $(r,\theta)$
+
 - $cis\theta = Cos\theta+iSin\theta$
 - $\dfrac{cis(x)}{cis(y)} =cis(x-y)$
 - $(cis\theta)^x= cis(\theta x)$
+  >[!question]- $(\cos 20+i\sin 20)^{5} \div (\cos 30+i\sin 30)^{3}$ 
+ >a)$\cos 20+i\sin 20$$\qquad$b)$\cos 30+i\sin 30$$\qquad$**c)**$\cos 10+i\sin 10$$\qquad$d)$\cos 20-i\sin 20$
+  
 - multiplication of complex numbers 
 $$(a+b i)(c+d i) = (ac-bd)+ (ad+ bc)i$$
-- $C$ is field
-- polar co-ordinates of a point $(r,\theta)$
-- $\dfrac{1}{i}= -i$
+- $Q$ field of rational numbers
+  $C$ is field of complex numbers
+  
+- $\dfrac{1}{i}= -i;\qquad \because \dfrac{i}{i}\times \dfrac{1}{i}=\dfrac{i}{i^{2}}$
+
+- Inverse of $(a, b)$ is: $(\dfrac{a}{a^{2}+b^{2}},\dfrac{-b}{a^{2}+b^{2}})$
+  MCQ
+- Multiplicative Inverse: when multiplied turns the number into 1
+  Additive Inverse: When added turns the number into 0
+  >[!question]- If $a \in R$ then multiplicative inverse of a is 
+ >a)0$\qquad$b)a$\qquad$c)-a$\qquad$**d)**$\dfrac{1}{a}$
+ 
+>[!question]- Additive inverse of (3, 3) in C is
+>a)(3, 0)$\qquad$b)(0, 3)$\qquad$c)(-3, 3)$\qquad$**d)(-3, 3)**
+  
 
 ## 2: Sets and Sub-Sets -+
 - Power of a Set = No. of subsets = $2^{n}$
