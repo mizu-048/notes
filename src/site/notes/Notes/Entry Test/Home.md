@@ -2,5 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/entry-test/home/","tags":["gardenEntry"]}
 ---
 
-[[studyNotes/Entry Test/Mathematics\|studyNotes/Entry Test/Mathematics]]
-[[studyNotes/Entry Test/Physics\|studyNotes/Entry Test/Physics]]
+[[Notes/Entry Test/Mathematics\|Mathematics]]
+[[Notes/Entry Test/Physics\|Physics]]
+[[Notes/Entry Test/English\|English]]
+[[Notes/Entry Test/Chemistry\|Chemistry]]
