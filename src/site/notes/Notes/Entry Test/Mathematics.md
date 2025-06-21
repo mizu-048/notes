@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study-notes/entry-test/mathematics/"}
+{"dg-publish":true,"permalink":"/notes/entry-test/mathematics/"}
 ---
 
 
@@ -568,7 +568,7 @@ $(30\times 11)- (10 \times \dfrac{11}{2}) = 275$
 | **Circle**   | $A =\pi r^{2}$                            | $L =2 \pi r$   | $l = \theta r$ |
 | **Sector**   | $A =\dfrac{1}{2}r^2\theta = \dfrac{1}{2}rl$ | $l = \theta r$ |                |
 | **Triangle** | $A = \dfrac{1}{2}ab$                       |                |                |
-![sign of trigonometric functions.png|center|300](/img/user/studyNotes/Entry%20Test/attachments/sign%20of%20trigonometric%20functions.png)
+![sign of trigonometric functions.png|center|300](/img/user/Notes/Entry%20Test/attachments/sign%20of%20trigonometric%20functions.png)
 
 
 
@@ -650,7 +650,7 @@ $$
 | $\cos$   | $1$         | $\dfrac{\sqrt{3}}{2}$ | $\dfrac{1}{\sqrt{2}}$ | $\dfrac{1}{2}$        | 0             |
 | $\tan$   | 0           | $\dfrac{1}{\sqrt{3}}$ | 1                     | $\sqrt{ 3 }$          | undefined     |
 ### 10: Trigonometric Identities
-![reference angle.png|center|600](/img/user/studyNotes/Entry%20Test/attachments/reference%20angle.png)
+![reference angle.png|center|600](/img/user/Notes/Entry%20Test/attachments/reference%20angle.png)
 
 
 |         |                            |
@@ -698,7 +698,7 @@ $4x+9=0;\qquad x=-\dfrac{9}{4}$
   
 ### 12: Applications of trigonometry
 
-![triangle.png|center|400](/img/user/studyNotes/Entry%20Test/attachments/triangle.png)
+![triangle.png|center|400](/img/user/Notes/Entry%20Test/attachments/triangle.png)
 - 
 
 | Law of Sines                                                          | Law of Cosines                         | Law of tangents                                                                         |
@@ -771,7 +771,7 @@ since $\cos ec^{-1}(\dfrac{1}{2})=\sin^{-1}(2)$ and $\sin$ never gives 2, and ra
 | sin                                 | cos                                       | tan                                       |
 | ----------------------------------- | ----------------------------------------- | ----------------------------------------- |
 | $\sin= \dfrac{\text{perp.}}{hypo.}$ | $\cos= \dfrac{\text{base}}{\text{hypo.}}$ | $\tan= \dfrac{\text{base}}{\text{perp.}}$ |
-| ![CNX_Calc_Figure_07_03_001.jpg](/img/user/studyNotes/Entry%20Test/attachments/CNX_Calc_Figure_07_03_001.jpg)  | ![Pasted image 20250605212455.png](/img/user/studyNotes/Entry%20Test/attachments/Pasted%20image%2020250605212455.png)      | ![CNX_Calc_Figure_07_03_004.jpg](/img/user/studyNotes/Entry%20Test/attachments/CNX_Calc_Figure_07_03_004.jpg)        |
+| ![CNX_Calc_Figure_07_03_001.jpg](/img/user/Notes/Entry%20Test/attachments/CNX_Calc_Figure_07_03_001.jpg)  | ![Pasted image 20250605212455.png](/img/user/Notes/Entry%20Test/attachments/Pasted%20image%2020250605212455.png)      | ![CNX_Calc_Figure_07_03_004.jpg](/img/user/Notes/Entry%20Test/attachments/CNX_Calc_Figure_07_03_004.jpg)        |
 | base= $\sqrt{ a-x^{2} }$            | perp. = $\sqrt{ a+x^{2} }$                | hypo. = $\sqrt{ 1+x^{2} }$                |
 >[!question]- $\tan^{-1}x$ in terms of $\arccos:$ 
  >a)$\cos^{-1}\sqrt{ 1+x^{2} }$$\qquad$**b)$\cos^{-1} \dfrac{1}{\sqrt{ 1+x^{2} }}$**$\qquad$c)$\cos^{-1} \dfrac{1}{\sqrt{ 1-x^{2} }}$$\qquad$d)$\cos^{-1}\sqrt{ 1-x^{2} }$
@@ -891,12 +891,12 @@ $$\begin{aligned}
 | ------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | --------------------------------- | --- |
 | distance                        | $d = \|AB\| = \sqrt{(x_{2}-x_{1})^{2}+ (y_{2}-y_{1})^{2}}$                                                      | distance between two points                                      |                                   |     |
 | midpoint                        | $\left( \dfrac{x_{2}+x_{1}}{2},\dfrac{y_{2}+y_{1}}{2} \right)$                                                  | the point in the middle of 2 points                              |                                   |     |
-| division of line internally     | $P = \left( \dfrac{k_{2} x_1 + k_{1} x_2}{k_{1} + k_{2}}, \dfrac{k_{2} y_1 + k_{1} y_2}{k_{1} + k_{2}} \right)$ | P is the position vector where of the point                      | ![dividing line internally.png](/img/user/studyNotes/Entry%20Test/attachments/dividing%20line%20internally.png) |     |
+| division of line internally     | $P = \left( \dfrac{k_{2} x_1 + k_{1} x_2}{k_{1} + k_{2}}, \dfrac{k_{2} y_1 + k_{1} y_2}{k_{1} + k_{2}} \right)$ | P is the position vector where of the point                      | ![dividing line internally.png](/img/user/Notes/Entry%20Test/attachments/dividing%20line%20internally.png) |     |
 | division of line externally     | $P = \left( \dfrac{k_{2} x_1 - k_{1} x_2}{k_{1} - k_{2}}, \dfrac{k_{2} y_1 - k_{1} y_2}{k_{1} - k_{2}} \right)$ | P is the position vector where of the point                      |                                   |     |
 | distance between point and line | $d = \dfrac{\|ax_{1}+by_{1}+c\|}{\sqrt{a^{2} +b^{2}}}$                                                          | where $ax + by + c$ is the line<br>$P(x_{1},y_{1})$ is the point |                                   |     |
 | slope                           | $\tan \theta=m=(\dfrac{y_{2}-y_{1}}{x_{2}-x_{1}})$                                                              | the tangent of inclination(θ)                                    |                                   |     |
-| ==Centroid of triangle==        | ==$( \dfrac{x_{1}+x_{2}+x_{3}}{3}, \dfrac{y_{1}+y_{2}+y_{3}}{3})$==                                             |                                                                  | ![centroid.png](/img/user/studyNotes/Entry%20Test/attachments/centroid.png)                 |     |
-| in-center of a triangle         | $(\dfrac{a x_1 + b x_2 + c x_3}{a + b + c},\dfrac{a y_1 + b y_2 + c y_3}{a + b + c})$                           | from bisector of the angles                                      | ![in-circle.png](/img/user/studyNotes/Entry%20Test/attachments/in-circle.png)                |     |
+| ==Centroid of triangle==        | ==$( \dfrac{x_{1}+x_{2}+x_{3}}{3}, \dfrac{y_{1}+y_{2}+y_{3}}{3})$==                                             |                                                                  | ![centroid.png](/img/user/Notes/Entry%20Test/attachments/centroid.png)                 |     |
+| in-center of a triangle         | $(\dfrac{a x_1 + b x_2 + c x_3}{a + b + c},\dfrac{a y_1 + b y_2 + c y_3}{a + b + c})$                           | from bisector of the angles                                      | ![in-circle.png](/img/user/Notes/Entry%20Test/attachments/in-circle.png)                |     |
 |                                 |                                                                                                                 |                                                                  |                                   |     |
 
 $$\begin{align}
@@ -994,7 +994,7 @@ $$
 - 
 ## 6: Conic Section
 
-![conic section gif.gif|center|400](/img/user/studyNotes/Entry%20Test/attachments/conic%20section%20gif.gif)
+![conic section gif.gif|center|400](/img/user/Notes/Entry%20Test/attachments/conic%20section%20gif.gif)
 $$
   \text{ Circle: }x^{2}+y^{2}=1 \qquad \text{ Ellipse: }\dfrac{x^{2}}{a^{2}}+\dfrac{y^{2}}{b^{2}}=1 \qquad \text{ Hyperbola: } \dfrac{x^{2}}{a^{2}}-\dfrac{y^{2}}{b^{2}}=1 \qquad  \text{ Parabola: }y^{2}=4ax
 $$
@@ -1057,7 +1057,7 @@ $$
 - if $g^{2} = c$ then circle touches x-axis
   if $f^{2} = c$ then circle touches y-axis
   if $f^{2}=g^{2} = c$ then circle touches both axes
-  ![mcq touches axis.png](/img/user/studyNotes/Entry%20Test/attachments/mcq%20touches%20axis.png)
+  ![mcq touches axis.png](/img/user/Notes/Entry%20Test/attachments/mcq%20touches%20axis.png)
 - no $xy$ term (product of x and y) is present in equation of circle
 - length of a chord $=2\sqrt{r^2-d^2}$, where d is distance of midpoint of chord from center
 - circle is a special form of ellipse when minor and major axes are equal
@@ -1074,7 +1074,7 @@ $$
 - to find the quadrants the circle passes trhough
 	  1.) find centre, this will give one quadrant
 	  2.) find radius, second quadrant will be the one, which is less than radius
-	  ![mcq circle quadrant.png](/img/user/studyNotes/Entry%20Test/attachments/mcq%20circle%20quadrant.png)
+	  ![mcq circle quadrant.png](/img/user/Notes/Entry%20Test/attachments/mcq%20circle%20quadrant.png)
 - Circle passes through:
 	  all 4 quadrants if $c$ is negative
 	  3 quadrants and origin if $c$ is zero
@@ -1107,7 +1107,7 @@ y^{2} =4ax \qquad y^{2} = -4ax \qquad  \text{ are symmetric about x-axis } \\
 x^{2} =4ay \qquad x^{2} = -4ay \qquad  \text{ are symmetric about y-axis }
 \end{align}
 $$
-![table of parabola.jpg|center|1000](/img/user/studyNotes/Entry%20Test/attachments/table%20of%20parabola.jpg)
+![table of parabola.jpg|center|1000](/img/user/Notes/Entry%20Test/attachments/table%20of%20parabola.jpg)
 
 -   $a$ is called the focal length
 - for form  
@@ -1121,7 +1121,7 @@ $$
 $$
  \dfrac{x^{2}}{a^{2}}+\dfrac{y^{2}}{b^{2}}=1 \qquad 
 $$
-- ![Table of Ellipse.jpg](/img/user/studyNotes/Entry%20Test/attachments/Table%20of%20Ellipse.jpg)
+- ![Table of Ellipse.jpg](/img/user/Notes/Entry%20Test/attachments/Table%20of%20Ellipse.jpg)
 - 2a : length of major axis
 - 2b: length of minor axis
 - distance brtween centre and foci: $c = \sqrt{ a^2-b^2}$
@@ -1151,7 +1151,7 @@ $$
 - Length of latus-rectum: = $\dfrac{2b^{2}}{a}$
 - Length of traverse axis(where vertices lie): 2a
 - Length of conjugate axis(where CoVertices lie): 2b
-- ![table of hyoerbola.jpg|center|600](/img/user/studyNotes/Entry%20Test/attachments/table%20of%20hyoerbola.jpg)
+- ![table of hyoerbola.jpg|center|600](/img/user/Notes/Entry%20Test/attachments/table%20of%20hyoerbola.jpg)
 >[!question]- $\dfrac{(x-2)^{2}}{9}-\dfrac{(y+1)^{2}}{16}=1$ 
  
  Center = (2,-1)
