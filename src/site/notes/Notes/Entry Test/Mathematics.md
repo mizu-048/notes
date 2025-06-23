@@ -21,7 +21,8 @@ $\sqrt{ n }=\dfrac{n}{\sqrt{ n }};\qquad \dfrac{1}{\sqrt{ n }}=\dfrac{\sqrt{ n }
 	- measure of angles of DEF= 60º
 	- all triangles are congruent
 	- ratio of length of AC to DE = 1/2
-	- CDEF form a rhombus
+	- CDEF forms a rhombus
+- 
 # Part 1
 ## 1: Number System -+
 - $a + bi = (a,b )$
@@ -72,7 +73,7 @@ $$(a+b i)(c+d i) = (ac-bd)+ (ad+ bc)i$$
   
 
 ## 2: Sets and Sub-Sets -+
-- Power of a Set = No. of subsets = $2^{n}$
+- Power of a Set = No. of subsets = $2^{n};\qquad n= \text{no. of elements in set}$
 - Absorption Law: $A \cup (A \cap B) = A \cap (A \cup B) = A$
 - $$
 \begin{array}{|c|c|c|c|c|c|c|}
