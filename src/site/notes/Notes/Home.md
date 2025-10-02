@@ -13,4 +13,4 @@
 > - English
 > 	- [[Notes/English/idk\|idk]]
 > - Aerospace
-> 	- [[Notes/Aero/Airfoils\|Airfoils]]
+> 	- [[Notes/Aero/Introductory\|Introductory]]
