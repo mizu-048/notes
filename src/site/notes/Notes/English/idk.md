@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/english/idk/"}
 ---
 
-## verbs
+1## verbs
 - static: action that is not concrete like feelings, emotion,  etc
 - action:
 ## conjuctions

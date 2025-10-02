@@ -1156,16 +1156,17 @@ $$
 
 - any point that lies on a line or conic, satisfies its equation, this core concept is used to solve many MCQs b y back solving
 ### circle:
-- $$\begin{align}
- &\text{General Equation: \quad }Ax^2 + By^2+ 2gx + 2fy + c = 0
-\\
- &\text{Standard Equation: \quad}r^2=(x-h)^2 + (y-k)^2
-\end{align}$$
+- $$
+\begin{align}
+&\text{General Equation: \quad }Ax^2 + By^2+ 2gx + 2fy + c = 0 \\
+&\text{Standard Equation: \quad}r^2=(x-h)^2 + (y-k)^2 \\
+\end{align}
+$$
 if in general equation $A \text{ and } B$ are equal to 1 then 
 $$\begin{align}
- \text{center = } & (-g,-f) \text{ or }(h,k)\\
- \\
- \text{radius = } r=&  \sqrt{g^2+f^2-c}
+\text{center = } & (-g,-f) \text{ or }(h,k)\\
+\\
+\text{radius = } r=&  \sqrt{g^2+f^2-c}
 \end{align}
 $$
 	if values $c(h,k)$ and $r$ are given, use standard equation to form equation  of circle.
@@ -1183,11 +1184,11 @@ $$
 - circle is a special form of ellipse when minor and major axes are equal
 - Position of a point $P(x_{1},y_{1})$ relative to a circle is done by putting point in equation of circle(standard or general)
 $$
-  \begin{align}
-  r^2=(x_{1}-h)^2 + (y_{1}-k)^2> 0;& \quad \text{lies outside circle}\\
-   \\
+\begin{align}
+r^2=(x_{1}-h)^2 + (y_{1}-k)^2> 0;& \quad \text{lies outside circle}\\
+\\
 r^2=(x_{1}-h)^2 + (y_{1}-k)^2 < 0;& \quad \text{lies inside circle}\\
-   \\
+\\
 r^2=(x_{1}-h)^2 + (y_{1}-k)^2= 0;& \quad \text{lies on circle}\\
 \end{align}
 $$
@@ -1206,12 +1207,12 @@ $$
 - to find tangent to a curve at any point $(x_{1},y_{1})$, replace
 $$
 \begin{align}
-  x^{2} \to x.x_{1} \\
+x^{2} \to x.x_{1} \\
    \\
 2x \to x+x_{1}\\
- \\
-  y^{2} \to y.y1 \\
- \\
+\\
+y^{2} \to y.y1 \\
+\\
 2y \to y+y1
 \end{align}
 $$
