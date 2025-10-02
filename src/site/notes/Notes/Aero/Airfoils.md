@@ -45,11 +45,11 @@ $$
 	- PS: rankine is basically Kelvin scale but for Fahrenheit $1^{o}R = 1^{o}F$
 	- Conversions:
 $$\begin{align}
-^{o}R= \ ^{o}F + 459.67 \\
-K = \ 
+\ ^{o}R= \ ^{o}F + 459.67 \\
+\ K = \ 
 { #oC}
  + 273.15 \\
-^{o}F = \ (^{o}C \times 1.8)+32 \\
+\ ^{o}F = \ (^{o}C \times 1.8)+32 \\
 \end{align}
 $$
 	- 
