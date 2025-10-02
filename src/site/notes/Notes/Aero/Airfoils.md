@@ -13,6 +13,7 @@
 - it consists of two separate curves, if curve one ends at point $p$ then curve two starts at point $p$
 ![mean_camber_line.png|center|900](/img/user/Notes/Aero/attachments/mean_camber_line.png)
 ## miscallenous
+![pitch-roll-yaw.gif](/img/user/Notes/Aero/attachments/pitch-roll-yaw.gif)
 - 1 knot = 0.5144 m/s
 - **Mach Number**: The ratio of speed of object to the speed of sound in respective medium
 - Speed of sound $𝑎 = 𝛾𝑅𝑇$, where $R$ is gas constant, $T$ is temperature and $𝛾$ ratio of specific heats.
@@ -28,3 +29,27 @@ M > 5 \qquad & :\qquad Hypersonic \\
 $$
 - **Angle of Incidence**: The angle between the longitudinal axis of plane and chord line of the wing, it is fixed and set during the manufacturing of the plane
 - **Angle of Attack:** The angle between the 
+
+## Definitions
+- **Pressure:** Pressure is the normal force per unit area exerted on a surface due to the time rate of change of momentum of the gas molecules impacting on that surface i.e. $p=\underset{ dA \to 0 }{ \lim }(\dfrac{dF}{dA});$
+	-  $dA=$An incremental area around
+	  $dF=$ Force on one side of $dA$ due to pressure
+	  
+	- **Units:** Units: $\pu{ Nm^{-2} }$(Pascals), lb/ft2, $\pu{atm}$ 
+- **Density:** The density of a substance  is the mass of that substance per unit volume. $\rho=\underset{ dV \to 0 }{ \lim }(\dfrac{dm}{dV})$
+	- Units: $kg/m^{-3}$, slug/ft$^{-3}$, g/cm$^{-3}$
+- **Temperature:** Temperature is a measure of the average kinetic energy of the particles in the gas. If kinetic energy is the mean molecular kinetic energy
+	-  then temperature is given by: $\ \pu{ K.E }=\dfrac{3}{2}k\times T$ 
+	- where $k$ is Boltzman constant = $1.38\times 10^{-23} \ \pu{ J K^{-1}}-> \text{Joule per Kelvin}$
+	- Units: Kelvin(K), Celcius($^{o}$C), Fahrenheit ($^{o}$F) and degree Rankine ($^{o}$R)
+	- PS: rankine is basically Kelvin scale but for Fahrenheit $1^{o}R = 1^{o}F$
+	- Conversions:
+$$\begin{align}
+^{o}R= \ ^{o}F + 459.67 \\
+K = \ 
+{ #oC}
+ + 273.15 \\
+^{o}F = \ (^{o}C \times 1.8)+32 \\
+\end{align}
+$$
+	- 
