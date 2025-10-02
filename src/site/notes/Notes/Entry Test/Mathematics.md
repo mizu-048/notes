@@ -1040,30 +1040,29 @@ $$
 - if two lines are perpendicular then $m_{1}\times m_{2} = -1$
   if two lines are parallel then $m_{1}=m_{2}$
 - for three collinear points
-  $$
+$$\begin{align}
 \left| \begin{matrix} 
 x_1 & y_1 & 1 \\
 x_2 & y_2 & 1 \\
 x_3 & y_3 & 1
 \end{matrix} \right| = 0
+\end{align}
 $$
 
 - if slope of two lines AB and BC are equal, then A, B and C are co-linear
 - in $(x,y)$, x is the distance from y-axis and vice versa
 - 
 $$
- \text{Area of triangle    }= \Delta = \dfrac{1}{2}\begin{vmatrix}x_{1} & y_{1} & 1 \\ x_{2} & y_{2} & 1 \\ x_{3} & y_{3} & 1 \\ \end{vmatrix}
+\text{Area of triangle    }= \Delta = \dfrac{1}{2}\begin{vmatrix}x_{1} & y_{1} & 1 \\ x_{2} & y_{2} & 1 \\ x_{3} & y_{3} & 1 \\ \end{vmatrix}
 $$
 
 - if in the equation of two lines coefficients of $x$, and coefficients of $y$ are equal then they are parallel  a₁=a₂ and b₁=b₂
 - Position of a point $P(x_{1},y_{1})$ relative to a line $ax + by + c = 0$
-$$
-\begin{align}
+$$\begin{align}
 ax_{1} + by_{1} + c> 0;& \quad \text{lies above line}\\
 ax_{1} + by_{1} + c < 0;& \quad \text{lies below line}\\
 ax_{1} + by_{1} + c = 0;& \quad \text{lies on the line}\\
-\end{align}
-$$
+\end{align}$$
 - similarly position of a line $ax + by + c = 0$ relative to $x \text{ and } y$ axes
 
 $$
