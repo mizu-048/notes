@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/notes/home/"}
 ---
 
 
@@ -14,4 +14,3 @@
 > 	- [[Notes/English/idk\|idk]]
 > - Aerospace
 > 	- [[Notes/Aero/Introductory\|Introductory]]
-[[MRC project\|MRC project]]
