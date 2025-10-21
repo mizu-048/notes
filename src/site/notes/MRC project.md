@@ -63,36 +63,37 @@ Finance: (Soha,asaif)
 
 ### 🛠️ UAV SECCNA Project – Team Roles Table
 
-|**#**|**Role/Parameter**|**Responsibility**|
-|---|---|---|
-|1|Team Leader|Overall coordination, team management, task supervision.|
-|2|Deputy Leader|Supports team leader, manages backup leadership.|
-|3|Project Planner|Develops project timeline, sets milestones.|
-|4|Task Coordinator|Assigns daily/weekly tasks, monitors task status.|
-|5|Finance Head|Manages budgeting, expense tracking.|
-|6|Procurement Officer|Purchases materials and tools.|
-|7|Inventory Manager|Tracks all materials/tools and updates stock.|
-|8|Lead Designer (CAD)|Creates 3D models and technical drawings.|
-|9|Assistant Designer|Supports CAD design, sketching, design iteration.|
-|10|Aerodynamics Analyst|Ensures body design supports proper airflow and lift.|
-|11|Structural Engineer|Analyzes frame strength, stress points, load paths.|
-|12|Weight Optimization Engineer|Balances weight with structural integrity.|
-|13|Fabrication Head|Leads physical construction process.|
-|14|Wood Cutter|Cuts wooden parts accurately based on design.|
-|15|Assembler|Assembles frame components with joints and adhesives.|
-|16|Finishing Expert|Sanding, sealing, surface finishing.|
-|17|Tool Manager|Manages availability and maintenance of tools.|
-|18|Lab Report Writer|Writes lab procedures, findings, and discussion.|
-|19|Assignment Writer|Writes theoretical part of the assignment.|
-|20|Editor/Proofreader|Edits all documentation for grammar, flow, and structure.|
-|21|Data Collector|Records weight, dimensions, observations.|
-|22|Diagram/Sketch Artist|Creates neat illustrations or technical hand sketches.|
-|23|Material Researcher|Investigates wood types and their properties.|
-|24|Joint/Connector Analyst|Researches and selects best joint techniques.|
-|25|Safety Analyst|Conducts risk assessment and enforces safety protocols.|
-|26|Decorator/Stylist|Designs visual look, paints body, applies logo or decals.|
-|27|Presentation Designer|Designs slides or posters for final presentation.|
-|28|Logo/Graphics Creator|Creates visual identity for the UAV/team.|
-|29|Lead Presenter|Leads oral or video presentation delivery.|
-|30|Q&A Handler|Prepares for and answers questions during viva or Q&A.|
-|31|Documentation Organizer|Compiles, organizes, and formats all documents for submission.|
+| **#** | **Role/Parameter**           | **Responsibility**                                                              |     |
+| ----- | ---------------------------- | ------------------------------------------------------------------------------- | --- |
+| 1     | Team Leader                  | Overall coordination, team management, task supervision. Abdul Dayyan           |     |
+| 2     | Deputy Leader                | Supports team leader, manages backup leadership. Maleehah                       |     |
+| 3     | Project Planner              | Develops project timeline, sets milestones. Asaif                               |     |
+| 4     | Task Coordinator             | Assigns daily/weekly tasks, monitors task status. Ali                           |     |
+| 5     | Finance Head                 | Manages budgeting, expense tracking. (Soha)                                     |     |
+| 6     | Procurement Officer          | Purchases materials and tools. (Maryam,Soha,Adan)                               |     |
+| 7     | Inventory Manager            | Tracks all materials/tools and updates stock. (Raazia)                          |     |
+| 8     | Lead Designer (CAD)          | Creates 3D models and technical drawings. (Moeed)                               |     |
+| 9     | Assistant Designer           | Supports CAD design, sketching, design iteration. (Ali,Maryam)                  |     |
+| 10    | Aerodynamics Analyst         | Ensures body design supports proper airflow and lift. (Asaif, Abdul Dayyan)     |     |
+| 11    | Structural Engineer          | Analyzes frame strength, stress points, load paths. (Gayan, asaif)              |     |
+| 12    | Weight Optimization Engineer | Balances weight with structural integr                                          |     |
+| 13    | Fabrication Head             | Leads physical construction process.(Adan, Gayan)                               |     |
+| 14    | Wood Cutter                  | Cuts wooden parts accurately based on design.(Raazia)                           |     |
+| 15    | Assembler                    | Assembles frame components with joints and adhesives.(All group Members)        |     |
+| 16    | Finishing Expert             | Sanding, sealing, surface finishing.(Maryam,Soha)                               |     |
+| 17    | Tool Manager                 | Manages availability and maintenance of tools.(Gayan)                           |     |
+| 18    | Lab Report Writer            | Writes lab procedures, findings, and discussion.(Ali, Maleelah,Asaif)           |     |
+| 19    | Assignment Writer            | Writes theoretical part of the assignment.(Ali,Maleelah)                        |     |
+| 20    | Editor/Proofreader           | Edits all documentation for grammar, flow, and structure.(Abdul Dayyan, Moeed)  |     |
+| 21    | Data Collectr                | Records weight, dimensions, observations. (Asaif)                               |     |
+| 22    | Diagram/Sketch Artist        | Creates neat illustrations or technical hand sketches.(Maryam,Soha)             |     |
+| 23    | Material Researcher          | Investigates wood types and their properties.(Adan,Asaif,Raazia)                |     |
+| 24    | Joint/Connector Analyst      | Researches and selects best joint techniques.(Gayan,Adan,ABDUL dAYYAN)          |     |
+| 25    | Safety Analyst               | Conducts risk assessment and enforces safety protocols.(Raazia,Adan)            |     |
+| 26    | Decorator/Stylist            | Designs visual look, paints body, applies logo or decals.(Maryam,Asaif)         |     |
+| 27    | Presentation Designer        | Designs slides or posters for final presentation. (ABDUL DAYYAN)                |     |
+| 28    | Logo/Graphics Creator        | Moeed                                                                           |     |
+| 29    | Lead Presenter               | Leads oral or video presentation delivery. (Raazia, Abdul dayyan)               |     |
+| 30    | Q&A Handler                  | Prepares for and answers questions during viva or Q&A. (Maleehah, Abdul Dayyan) |     |
+| 31    | Documentation Organizer      | Compiles, organizes, and formats all documents for submission. (Ali, Maleehah)  |     |
+|       |                              |                                                                                 |     |
