@@ -12,13 +12,13 @@
 	  
 	- **Units:** Units: $\pu{ Nm^{-2} }$(Pascals), lb/ft2, $\pu{atm}$ 
 - **Density:** The density of a substance  is the mass of that substance per unit volume. $\rho=\underset{ dV \to 0 }{ \lim }(\dfrac{dm}{dV})$
-	- Units: $kg/m^{-3}$, slug/ft$^{-3}$, g/cm$^{-3}$
+	- Units: $kg/m^{-3}$, slug/ft$^{-3}$,  g/cm$^{-3}$
 - **Temperature:** Temperature is a measure of the average kinetic energy of the particles in the gas. If kinetic energy is the mean molecular kinetic energy
 	-  then temperature is given by: $\ \pu{ K.E }=\dfrac{3}{2}k\times T$ 
-	- where $k$ is Boltzman constant = $1.38\times 10^{-23} \ \pu{ J K^{-1}}-> \text{Joule per Kelvin}$
-	- Units: Kelvin(K), Celcius($^{o}$C), Fahrenheit ($^{o}$F) and degree Rankine ($^{o}$R)
-	- PS: rankine is basically Kelvin scale but for Fahrenheit $1^{o}R = 1^{o}F$
-	- Conversions:
+	- where $k$ is Boltzmann constant = $1.38\times 10^{-23} \ \pu{ J K^{-1}} \to$ Joule per Kelvin
+	- Units: Kelvin(K), Celsius($^{o}$C), Fahrenheit ($^{o}$F) and degree Rankine ($^{o}$R)
+	- PS: Rankine is basically Kelvin scale but for Fahrenheit $1^{o}R = 1^{o}F$
+	- Conversions of temperature units:
 $$\begin{align}
 \ ^{o}R= \ ^{o}F + 459.67 \\
 \ K = \ 
@@ -45,6 +45,10 @@ $$
 - **Load Factor:** is a measure of the stress of the experienced by the structure, ratio of lift to weight of the aircraft, it has no units but is often represented in G units
 { #loadfactor}
 
+	- $\dfrac{\text{Lift}}{\text{Weight}}$
+	- > 1 when gaining elevation
+	- 0 < x < 1 when loosing elevation
+	- < -1 when upside down
 - **Angle of Incidence**: The angle between the longitudinal axis of plane and chord line of the wing, it is fixed and set during the manufacturing of the plane
 - **Angle of Attack:** The angle between the
 - The point for center of gravity is not fixed, as its weight distribution changes as the fuel is burned during the flight
@@ -72,6 +76,18 @@ $$
 >![aeroplane_anatomy.png|center|900](/img/user/Notes/Aero/attachments/aeroplane_anatomy.png)
 >![basic components of an airplane.png|center|900](/img/user/Notes/Aero/attachments/basic%20components%20of%20an%20airplane.png)
 >![control surfaces of a plane.png|center|900](/img/user/Notes/Aero/attachments/control%20surfaces%20of%20a%20plane.png)
+
+> [!tldr]- Drag
+> 
+> - **Parasitic Drag**
+> 	- caused due to the profile/shape of any object moving through a fluid
+> 	- **Form Drag**: due to size and shape 
+> 	- **Skin/Friction Drag**: due to surface texture and smoothness 
+> 	- ![parasitic drag types.png|center|500](/img/user/Notes/Aero/attachments/parasitic%20drag%20types.png)
+> - **Induced Drag:**
+> 	-  produced by part that produce lift, mainly due to the downwash of the vortices produced at the edge of wing tips
+> 	- ![induced drag.png|center|400](/img/user/Notes/Aero/attachments/induced%20drag.png)
+
 ## Airfoils
 - An airfoil is the cross-sectional shape of a wing, sail or blade (of a propeller, rotor, or turbine).
 >[!tldr]- NACA MPXY:
@@ -111,3 +127,102 @@ $$
 	  $=\dfrac{b}{c}$ where c is chord length
 - 
 
+# Body Design
+## Tail designs
+![Tails-1.png](/img/user/attachments/Tails-1.png)
+
+- **Empennage:** an arrangement of *stabilizing surfaces* at the tail of an aircraft.
+	- gives airplane directional stability like *pitch* and *yaw* through *elevators* and *rudders*, respectively
+
+- **T-Tail:**
+	- **Pros:**
+		- Is more immune to wake turbulence[^2]
+	- **Cons:**
+		- Structurally heavier
+		- susceptible to deep stalls[^1] at high angles of attack
+		- requires a still rear end of the fuselage to torsional affects
+		- more prone to flutters
+- **V-Tail:**
+	- **Pros:**
+		- Only two lifting surfaces
+		- reduced weight and manufacture cost
+	- **Cons:**
+		- may form a couple with rudders, reducing flight control
+
+- **H-Tail/Twin-Tail:**
+	- **Pros:**
+		- Is more immune to interference more propulsion systems installed at the rear
+	- **Cons:**
+		- 
+
+
+[^1]: in deep stalls the turbulent flow from the wing blankets the tail surfaces
+
+[^2]: Wake turbulence is the disturbance in the atmosphere caused by wingtip vortices trailing behind an aircraft as it generates lift
+
+## Wing design:
+![wings.png|center|900](/img/user/Notes/Aero/attachments/wings.png)
+![wing shapes.png|center|500](/img/user/Notes/Aero/attachments/wing%20shapes.png)
+
+- **Cantilevered:** no external support to wing
+![cantilever.png|center|200](/img/user/Notes/Aero/attachments/cantilever.png)
+![more wings.png|center|600](/img/user/Notes/Aero/attachments/more%20wings.png)
+![wing tips.png|center|700](/img/user/Notes/Aero/attachments/wing%20tips.png)
+
+## Engine Placements:
+![engine number designs.png|center|600](/img/user/Notes/Aero/attachments/engine%20number%20designs.png)
+![engine placement.png|center|600](/img/user/Notes/Aero/attachments/engine%20placement.png)
+
+
+## Flaps:
+
+>[!tldr]- Rotations in an aeroplane
+> - **Longitudinal Axis:** Along the length of the fuselag, symbolized with $M_{x}$
+> - **Lateral Axis:** Perpendicular to longitudinal along the plane of the aircraft, symbolized with $M_{y}$
+> - **Vertical Axis:** Normal to the aircraft's plane, symbolized with $M_{z}$
+> ![pitch-roll-yaw.gif|center|600](/img/user/Notes/Aero/attachments/pitch-roll-yaw.gif)
+
+![flaps.png|center|700](/img/user/Notes/Aero/attachments/flaps.png)
+
+- **Plain flap:** simplicity and moderate lift but limited effectiveness at low airspeeds
+- **Split flaps:** more lift but also more drag
+- **Slotted flaps:** prevent flow separation and generate higher lift
+![fowler flaps.png|center|700](/img/user/Notes/Aero/attachments/fowler%20flaps.png)
+- **Fowler flaps:**  greater lift and lower drag, but heavier and more complex
+- **Junkers flaps:**  create lots of lift but also alot of drag 
+- **Gurney flaps:**  simple and good for stall delays, but create mediocre life and drag 
+- 
+## Undercarriage
+- Undercarriage is all the structure that support the entire weight of the aircraft while it is on the ground
+- ![undercarriage.png|center|300](/img/user/Notes/Aero/attachments/undercarriage.png)
+- Tricycle is the most common one and includes two leg assemblies, called **bogies** and a **steerable** nose wheel.
+- some planes might have more than one wheel on each leg
+- wheels on smaller planes do no retract, which introduces more drag in which case **spat** might be used to streamline the airflow around it
+- ![ski float planes.png|center|500](/img/user/Notes/Aero/attachments/ski%20float%20planes.png)
+- ski or water planes might have floats 
+# blablahdaa;hdadad
+>[!tldr]- Square Cube Law
+>- As the aircraft's size increases, its volume (and thus weight) increases by the cube of the scaling factor, while its wing area (and thus lift) increases by the square. 
+
+>[!tldr]- Trim
+>- The aircraft's flight is **steady, unaccelerated and in equilibrium**
+>- Weight is equal to Lift and thrust is equal to the drag
+>- All moments about, each axis is also 0
+
+- Constraining the center of gravity to a point near the center of pressure is necessary because as it moves away, the torque generated by the tail is 
+
+
+
+
+> [!tldr]- Drag polar
+> - relation between the lift and drag coefficient
+> - at subsonic flights, upto a wing stall, it can to a high level confidence be assumed to be:
+> - $C_{D}=\underbrace{ C_{D_{0}} }_{\substack{ {\text{Non-Lifting }} \\{\text{drag}} }}+\underbrace{ \dfrac{(C_{L})^{2}}{\pi  e \ AR} }_{  \substack{ {\text{Induced}} \\{ \text{drag}} } }=C_{D_{0}}+C_{Di}$
+> 	- 1st term is parasitic or non-lifting drag
+> 	- 2nd term is induced drag, where **AR** is the aspect ratio of the wing and $e$ is the Oswald's Wing Efficiency Coefficient ($e <1$)
+
+- Stress
+- ![types of stress.png|center|300](/img/user/Notes/Aero/attachments/types%20of%20stress.png)
+- stress is the force acting per unit area that causes deformation
+- represented by sigma($\sigma$)
+- the
