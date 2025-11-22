@@ -75,7 +75,7 @@ $$(a+b i)(c+d i) = (ac-bd)+ (ad+ bc)i$$
 ## 2: Sets and Sub-Sets -+
 - Power of a Set = No. of subsets = $2^{n};\qquad n= \text{no. of elements in set}$
 - Absorption Law: $A \cup (A \cap B) = A \cap (A \cup B) = A$
-- $$
+$$
 \begin{array}{|c|c|c|c|c|c|c|}
 \hline
  &  &  \text{ AND }  &  \text{ OR }  &  \text{ NOT } &   \text{ 2nd should not be false while first is true } & XNOR  \\
@@ -88,7 +88,8 @@ P & Q & P \land Q \text{ (Conjunction)} & P \lor Q \text{ (Disjunction)} & \neg 
 \text{False} & \text{True} & \text{False} & \text{True} & \text{True}  & \text{True}  & \text{False}  \\
 \text{False} & \text{False} & \text{False} & \text{False} & \text{True}  & \text{True}  & \text{True}  \\
 \hline
-\end{array}$$
+\end{array}
+$$
 - $A' =U-A$;$\qquad$all the elements that are **not** in A
 -  A\B = $A \cap B'=A-B;\qquad B' = U-B;\qquad$ where A\B means all that elements that are in A but not in B
 -  $(A \cup B)' = A' \cap B'$
@@ -172,15 +173,14 @@ $$\begin{align}
 >[!question]- System of equations: $\begin{cases} 3x + 2y = 0 \\ x + 2y = 0 \end{cases}$ has
 >**a)Trivial Solution**$\qquad$b)Non-Trivial Solution$\qquad$c)infinite solutions$\qquad$d)none
  
- since $$ \begin{align}
+ since
+  $$ \begin{align}
  \begin{vmatrix} 
  {{3}} & {{2}} \\ 
  {{1}} & {{2}}
  \end{vmatrix} = & \ 6 -4= 4 \\ 4  & \neq 0
 \end{align}
  $$
- -  
-  
 ## 6: Sequences and Series+ 
 - $$
 \begin{array}{|c|c|c|c|c|}
@@ -609,13 +609,14 @@ $\cos(45+30)=\cos(30)\times(\cos 45)-\sin(30)\times \sin(45)=(\dfrac{\sqrt{ 3 }}
 
 - if sum of two angles is 90 then those co ratios are equal
 >[!question]- $\dfrac{\tan 71}{\cot 19}$
->a)Cot 42$\qquad$**b)Both C and D**$\qquad$c)Cot 45$\qquad$d)Tan 45c
+>a)$\cot 42$$\qquad$**b)Both C and D**$\qquad$c)$\cot 45$$\qquad$d)$\tan  45$
 
 
->[!question]- $\tan 9\tan 18\tan 72\tan 81$
+>[!question]- $\tan 9\times\tan 18\times\tan 72\times\tan 81$
 >a)0$\qquad$**b)1**$\qquad$c)9$\qquad$d)none
 
-$=\cot 81\cot 72\tan 72\tan 81$
+$=\cot 81\times\cot 72\times\tan 72\times\tan 81$
+
 
 >[!question]- $\dfrac{1-\cos t}{\sin t}$ 
 >a)$\cot \dfrac{t}{2}$$\qquad$b)$\tan \dfrac{3}{t}$$\qquad$**c)$\tan \dfrac{t}{2}$**$\qquad$d)$\cos 3t$
