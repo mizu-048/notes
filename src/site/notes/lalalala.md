@@ -4,7 +4,7 @@
 
 >[!tldr] Communication/Connection Crisis
 > > [!NOTE] Slide
-> > - "Talking without listening is like snipping an electrical cord in half
+> > >- "Talking without listening is like snipping an electrical cord in half
 and hoping that somehow something will light up" 
 > > >- Michael Nicholsbook, _The Lost Art of Listening_
 >
