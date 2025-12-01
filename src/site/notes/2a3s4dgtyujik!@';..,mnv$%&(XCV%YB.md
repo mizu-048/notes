@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/2a3s4dgtyujik-mnv-and-xcv-yb/"}
 ---
 
+
 - **2D/3D Drawings of UAV Mode**
 - **Gantt Chart & Work Distribution**
 
@@ -99,14 +100,19 @@ The UAV's specifications place it firmly in the **"Mini/Small" Fixed-Wing Catego
 - **Low Cost/Portability:** Its small dimensions (Wingspan ≈0.61 m) make it extremely portable and less expensive than large, industrial UAVs (which often have wingspans over 2 meters and MTOWs over 5 kg).
   
   
-| **Imperial Measurement**                                   | **Metric Measurement**               |
-| ---------------------------------------------------------- | ------------------------------------ |
-| **Wing Span:** $2 \text{ ft} \pm 10\%$                     | $\mathbf{0.6096 \text{ m}} \pm 10\%$ |
-| **Chord Length:** $4 \text{ in} \pm 10\%$                  | $\mathbf{10.16 \text{ cm}} \pm 10\%$ |
-| **Fuselage Length:** $2 \text{ ft } 4 \text{ in} \pm 10\%$ | $\mathbf{0.7112 \text{ m}} \pm 10\%$ |
+| **Imperial Measurement**                                   | **Metric Measurement** | Chosen |
+| ---------------------------------------------------------- | ---------------------- | ------ |
+| **Wing Span:** $2 \text{ ft} \pm 10\%$                     | **548 mm to 670 mm**   | 600mm  |
+| **Chord Length:** $4 \text{ in} \pm 10\%$                  | **91 mm to 111 mm**    | 100mm  |
+| **Fuselage Length:** $2 \text{ ft } 4 \text{ in} \pm 10\%$ | **630 mm to 782 mm**   | 700mm  |
+|                                                            |                        |        |
+| Horizontal Stabilizer Span                                 | 210 to 240             |        |
+| Verticle Stabilizer Span                                   | 135 to 167.5           |        |
 
 
 # Chosen plane to be made or copied
 CATUAV ORYX
+
+- it will be a cantilevered, mono-plane with a rectangular wing, a conventional tail with a trackor thrust method
 ![CATUAV Oryx.jpg|center|900](/img/user/attachments/CATUAV%20Oryx.jpg)
 ![Oryx airfoil view.png|center|900](/img/user/attachments/Oryx%20airfoil%20view.png)
