@@ -52,7 +52,8 @@ $$
 - **Angle of Incidence**: The angle between the longitudinal axis of plane and chord line of the wing, it is fixed and set during the manufacturing of the plane
 - **Angle of Attack:** The angle between the
 - The point for center of gravity is not fixed, as its weight distribution changes as the fuel is burned during the flight
-- Center of pressure is where the center of the entire lift on the plane is
+- **Center of pressure:** is where the center of the entire lift on the plane is
+- **Aerodynamic Center:** is the point where the pitching moment acts about
 - Flaps and slats are called high-lift devices
 
 >[!tldr]- sources of natural aerodynamic forces sources:
@@ -226,3 +227,28 @@ $$
 - stress is the force acting per unit area that causes deformation
 - represented by sigma($\sigma$)
 - the
+
+# Lecture 5
+Side slip angle $\beta$
+Angle of attack $\alpha$
+- Subscripts:
+	- B - Body axis
+	- S - Stability axis
+	- W - Wind Axis
+- True Airspeed is the corrected indicated speed given by an instrument after applying corrections from various changes in environmental conditions
+  
+  - Euler angles $\delta$ define the 3D orientation of the aircraft.
+	- Negative Deflections is positive aircraft response
+	- Positive Aircraft response is:
+		- Rightwards Yaw
+		- Clockwise roll (from sitting inside plane)
+		- Upward Pitch
+	- $\delta_{r}$ for rudder
+	- $\delta_{a}$ for ailerons
+	- $\delta_{e}$ for elevators
+	- ![eular's angle.png|500](/img/user/Notes/Aero/attachments/eular's%20angle.png)
+	  
+	  
+	  
+##  Truss analysis
+- Roller only has vertical reaction

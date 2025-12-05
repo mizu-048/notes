@@ -9,7 +9,7 @@
 >[[Notes/Entry Test/English\|English]]
 >[[Notes/Entry Test/Chemistry\|Chemistry]]
 
-> [!NOTE] Classes
+> [!NOTE] Uni Stuff
 > - English
 > 	- [[Notes/English/idk\|idk]]
 > - Aerospace

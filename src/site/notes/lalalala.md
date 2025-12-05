@@ -2,11 +2,13 @@
 {"dg-publish":true,"permalink":"/lalalala/"}
 ---
 
+
+
 >[!tldr] Communication/Connection Crisis
 > > [!NOTE] Slide
-> > >- "Talking without listening is like snipping an electrical cord in half
-and hoping that somehow something will light up" 
-> > >- Michael Nicholsbook, _The Lost Art of Listening_
+> > >_"Talking without listening is like snipping an electrical cord in half
+and hoping that somehow something will light up"_
+> > > - Michael Nicholsbook, _The Lost Art of Listening_
 >
 > > [!NOTE] Speech
 > > - In this modern day and age, the world has become more connected than ever

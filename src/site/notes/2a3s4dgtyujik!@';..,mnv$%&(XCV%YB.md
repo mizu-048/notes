@@ -107,7 +107,7 @@ The UAV's specifications place it firmly in the **"Mini/Small" Fixed-Wing Catego
 | **Fuselage Length:** $2 \text{ ft } 4 \text{ in} \pm 10\%$ | **630 mm to 782 mm**   | 700mm  |
 |                                                            |                        |        |
 | Horizontal Stabilizer Span                                 | 210 to 240             |        |
-| Verticle Stabilizer Span                                   | 135 to 167.5           |        |
+| Verticle Stabilizer Span                                   | 135 tyo 167.5          |        |
 
 
 # Chosen plane to be made or copied

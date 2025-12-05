@@ -6,16 +6,27 @@
 - static: action that is not concrete like feelings, emotion,  etc
 - action:
 ## conjuctions
-- coordinating: FANBOYS - 
+- coordinating: FANBOYS
+	  For
+	  And
+	  Nor
+	  But
+	  Or
+	  Yet
+	  So	
 - subordinating:
-- co-relative: either, or, neither, nor
+	- used before dependent clause
+	- 
+- co-relative: either, or, neither, nor, not only, but also
+	- come in pairs, and require maintenance of parallelism
 
 ## gerund
 verb + ing $\to$ noun(gerund)
 gerund is always accompanied by the main verb(in the sentence) which is a static verb
 
 ## Modifiers
-- A modifier is a word, phrase or clause that *adds detail, qualifies or limits the meaning* of another word or group of words in sentence
+- A modifier is a word, phrase or clause that *adds detail, qualities or limits the meaning* of another wor
+- d or group of words in sentence
 
 ## Linguistics
 ### Sounds:
@@ -34,3 +45,5 @@ gerund is always accompanied by the main verb(in the sentence) which is a static
 	- **Connotation**: implied meaning from personal feelings or ideas
 ### Context and Use
 - **Pragmatics:** 
+
+

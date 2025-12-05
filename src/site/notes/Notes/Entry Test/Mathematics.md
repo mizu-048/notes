@@ -849,10 +849,10 @@ since $\cos ec^{-1}(\dfrac{1}{2})=\sin^{-1}(2)$ and $\sin$ never gives 2, and ra
 	- if degree of denominator > numerator (rational function): limit is 0
 	- if degree of denominator = numerator : limit is ratio of leading coefficients
 	- if degree of denominator < numerator (irrational function): limit is $\infty$ or undefined
->[!question]- : $lim_{x \to \infty}​\dfrac{2x^{2}+3x−1​}{5x^{2}−4x+7}$. 
+>[!question]-$lim_{x \to \infty}​\dfrac{2x^{2}+3x−1​}{5x^{2}−4x+7}$. 
 >**a)**$\dfrac{2}{5}$$\qquad$b)0$\qquad$c)undefined$\qquad$d)$\infty$
   
->[!question]- : $lim_{x \to \infty}​\dfrac{2x^{2}+3x−1​}{5x^{3}−4x+7}$. 
+>[!question]- $lim_{x \to \infty}​\dfrac{2x^{2}+3x−1​}{5x^{3}−4x+7}$. 
 >
 $a)\dfrac{2}{5}$$\qquad$**b)0**$\qquad$c)undefined$\qquad$d)$\infty$
 
