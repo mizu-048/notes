@@ -12,5 +12,9 @@
 > [!NOTE] Uni Stuff
 > - English
 > 	- [[Notes/English/idk\|idk]]
+> - Mathmatics
 > - Aerospace
 > 	- [[Notes/Aero/Introductory\|Introductory]]
+> - Isl
+> 	- [[Notes/Isl/Seerat Un Nabi\|Seerat Un Nabi]]
+> 	- [[Notes/Isl/hadees\|hadees]]
