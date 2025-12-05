@@ -63,8 +63,6 @@
 
  - Muslims chose Hazrat Jaffar as representative in front of Negus(Najashi)
 - 10th year declared Amul Husn
-
-[]()
 ## Migration to abyissinia (5th nabvi)
 - The migration happened in two waves
 	- 1st
