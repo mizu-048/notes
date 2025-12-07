@@ -36,17 +36,28 @@
 > > - It very easily creates a mutual bond between two people
 > > - Empathy in a person can work wonders in their social life, it is this quality that makes you someone's good friend or lack of it, their annoying acquaintance
 > > - You might have experienced it yourself where you just connect with someone on a topic, that you both are enthusiastic about
-> >   
-> 
+
+
+
+>[!tldr]  Science of listening
+> > [!NOTE] Slide
+> > - Manim slide with empathy -> good listener
+>
+> > [!NOTE] Speech
+> > - Active listening isn't something you are just born with, its a skill that has to be developed, due to the biology of our brains and how they interpret meaning from sentences
+> > - It has been concluded from various that an average person speaks of around 150 Words per minutes (WPM). Undoubtedly this value varies from person to person like I have a habit of talking fast, while other, being aware of social etiquettes talk in a more appropriate speed. Anyway, being the biological wonders that we are, we can process spoken words and thoughts at the rate of 600 to more than 800 words per minute!!, that's a difference of atleast 500 words per minute
+> > - Now this gap of information being conveyed and received  is where our brains drift into other imaginative matters or worldly problems
+> > - Aside from just being faster processing verbal queues, our brains are excellent at predicting the message being conveyed. Which further adds to the urge to drift away 
+> > - Empathy in a person can work wonders in their social life, it is this quality that makes you someone's good friend or lack of it, their annoying acquaintance
+> > - You might have experienced it yourself where you just connect with someone on a topic, that you both are enthusiastic about
 
   
 - What is Active listening/Communication (Ali)
 	- Story
-	- when we gave islamiat presentation, i asked GPT questions on what to ask the other team but i didn't really understand any of it, then on the next day, i actually listened to the presentation and formed the questions myself, which i actually understood
-	- ==The student who rushed in with his MRC lab report at the last minute, just as the instructors had taken off their uniforms and were about to leave, ended up submitting it late because he had to leave early for the Aerothon event organized by his department.==
+	- 
 - 
-- Why it matter (Moeed)
-     - Communication Crisis
+- Why it matters (Moeed)
+     - Communication Crisis(lack of communication in the world)
 	- Need to be understood
 	- Empathy
 - How NOT to do it (mariam)
@@ -54,5 +65,6 @@
 	- Bias towards a perspective
 - How to do it
 	- how to listen
+	- 
 	- Science behind listening ( how our brain listened, attention span)
 - blah blah
