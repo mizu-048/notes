@@ -14,6 +14,8 @@
 > > - Yet even in this utopia of instant communication, the people have become more distant than ever. This isn't just due to the constant distractions of technological wonders that we keep in our pockets, its largely attributed to the fact that most of us are incapable of listening.
 > > - Majority of the human conflicts exist because people are unwilling to "listen" to others opinion.
 > > - It is the core nature of man to want their feelings known and express themselves.
+> > - its our we live, man is a social animal and to socialize we must listen to each other
+> > - 
 
 
 >[!tldr]  Yearning to be understood
@@ -44,7 +46,7 @@
 > > - Manim slide with empathy -> good listener
 >
 > > [!NOTE] Speech
-> > - Active listening isn't something you are just born with, its a skill that has to be developed, this belief is further solidified by science. Due to the biology of our brains and how they interpret meaning from sentences it does come to us by nature to listen actively
+> > - Active listening isn't something you are just born with, its a skill that has to be developed, this belief is further solidified by science. Due to the biology of our brains and how they interpret meaning from sentences it doesn't come to us by nature to listen actively
 > >   
 > > - An average person speaks at around 150 Words per minutes (WPM). These values of course vary from person to person and  like I have a habit of speaking fast, while other, being aware of social etiquettes talk in a more appropriate speed. Anyway, being the biological wonders that we are, we can process spoken words and thoughts at the rate of 600 to more than 800 words per minute!!, that's a difference of atleast 400 words per minute
 > > - Now this gap of information being conveyed and received  is where our brains drift into other imaginative matters or worldly problems
