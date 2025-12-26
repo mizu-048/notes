@@ -27,7 +27,7 @@
 - belonged to the tribe of **Banu Hashim**
 - born on **Monday 12th Rabi-ul-awal**, April 20, 571 AD
 - Parentage:
-	- Father: **Hazrat Abdullah Bin Abdulmutlib**, died 2 year before Muhammad's birth
+	- Father: **Hazrat Abdullah Bin Abdulmutlib**, died 6 months before Muhammad's birth
 	- Mother: **Hazrat Amna Bint e Wahab**, died at the age of 6
 	- Foster mother: **Hazrat Halima Sadia** from 8 days to 5 years old
 # Events
