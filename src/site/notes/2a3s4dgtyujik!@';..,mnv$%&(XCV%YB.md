@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/2a3s4dgtyujik-mnv-and-xcv-yb/"}
 ---
 
-
 - **2D/3D Drawings of UAV Mode**
 - **Gantt Chart & Work Distribution**
 
@@ -100,14 +99,15 @@ The UAV's specifications place it firmly in the **"Mini/Small" Fixed-Wing Catego
 - **Low Cost/Portability:** Its small dimensions (Wingspan ≈0.61 m) make it extremely portable and less expensive than large, industrial UAVs (which often have wingspans over 2 meters and MTOWs over 5 kg).
   
   
-| **Imperial Measurement**                                   | **Metric Measurement** | Chosen |
+| ALLOWed                                                    |                        | Chosen |
 | ---------------------------------------------------------- | ---------------------- | ------ |
-| **Wing Span:** $2 \text{ ft} \pm 10\%$                     | **548 mm to 670 mm**   | 600mm  |
+| **Imperial Measurement**                                   | **Metric Measurement** |        |
+| **Wing Span:** $2 \text{ ft} \pm 10\%$                     | **548 mm to 670 mm**   | 910mm  |
 | **Chord Length:** $4 \text{ in} \pm 10\%$                  | **91 mm to 111 mm**    | 100mm  |
 | **Fuselage Length:** $2 \text{ ft } 4 \text{ in} \pm 10\%$ | **630 mm to 782 mm**   | 700mm  |
 |                                                            |                        |        |
 | Horizontal Stabilizer Span                                 | 210 to 240             |        |
-| Verticle Stabilizer Span                                   | 135 tyo 167.5          |        |
+| Verticle Stabilizer Span                                   | 135 tyo l              |        |
 
 
 # Chosen plane to be made or copied

@@ -24,4 +24,3 @@
 			- (use of collections library
 			- why collection library (for deque)
 			- why deque(cuz its better))
-		- 

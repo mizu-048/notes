@@ -32,7 +32,7 @@ $\sqrt{ n }=\dfrac{n}{\sqrt{ n }};\qquad \dfrac{1}{\sqrt{ n }}=\dfrac{\sqrt{ n }
 >[!question]- $(-i)^{31}$  
 >**a)**$i$$\qquad$b)$-i$$\qquad$c)1$\qquad$d)-1
   
-  $(-1)^{31}\times(i)^{30}\times i= (-1)\times(-1)^{15}\times i=i$ -
+  $(-i)^{31}=(-1)^{31}\times(i)^{30}\times i= (-1)\times(-1)^{15}\times i=i$ -
   
 - when solving $(a+bi)^{n}$ you can make it  simpler by doing $[(a+bi)^{2}]^{n/2}$
 >[!question]-  $(\frac{1+i}{\sqrt{2}})^8=$ ? 

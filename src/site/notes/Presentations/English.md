@@ -4,30 +4,20 @@
 
 
 
->[!tldr] Communication/Connection Crisis
+>[!tldr] Teaching/Didacticism
 > > [!NOTE] Slide
-> > >_“Listen with curiosity. The greatest problem with communication is we don’t listen to understand. We listen to reply. When we listen with curiosity, we don’t listen with the intent to reply. We listen for what’s behind the words.” _
-> > > Roy T. Bennett, _The Light in the Heart_
+> > >  awdwd
 >
 > > [!NOTE] Speech
-> > - In this modern day and age, the world has become more connected than ever
-> > - Yet even in this utopia of instant communication, the people have become more distant than ever. This isn't just due to the constant distractions of technological wonders that we keep in our pockets, its largely attributed to the fact that most of us are incapable of listening.
-> > - Majority of the human conflicts exist because people are unwilling to "listen" to others opinion.
-> > - It is the core nature of man to want their feelings known and express themselves.
-> > - its our we live, man is a social animal and to socialize we must listen to each other
-> > - 
+> > - HPMOR is not just a novel for entertainment, the author elizer yukowsky wants to teach you. The book gives you lessons on social psychology, cognitive biases, and science through our main character harry. Always applied at critical times to demonstrate our flaws as humans.
 
-
->[!tldr]  Yearning to be understood
+>[!tldr]  making sense of the convoluted word
 > > [!NOTE] Slide
-> > - What it feels like to not being heard: (show points one by one) (ask a student)
-> > 	- you feel invisible
-> > 	- you feel insignificant
-> > 	- you feel unwelcomed
+> > - a eeoooo
 >
 > > [!NOTE] Speech
-> > - In a commute, you don't just give your opinion, you also take someone else's and that's not just for your future benefit. You listen to provide the other person an opportunity to present their ideas and share their experiences. You don't just listen to gain, But you also listen to give. The speaking party expects of you understand them, to empathize with them
-
+> > - example of the broom physics being aristotalian cuz it was made in that era and its velocity is in whatever direction you point it at.
+> > - dementors, their birth, death, patronuses.
 
 >[!tldr]  Empathy 
 > > [!NOTE] Slide

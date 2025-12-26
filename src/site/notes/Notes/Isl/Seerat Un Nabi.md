@@ -119,7 +119,7 @@
 		- Written by Hazrat Ali from Muslims and Suhayl ibn Amr from Meccans
 		- Terms and Conditions
 			- 1.) Bismillah Hirah Maniraheem
-			- 2.) Muhammad-u-rasool-e-Allah
+			- 2.) Muhammad-u-“rasool-e-Allah
 			- 3.)
 - 7th Hijri:
 	- Battle of Khaybar
