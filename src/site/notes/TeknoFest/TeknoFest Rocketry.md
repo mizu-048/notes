@@ -62,6 +62,7 @@ $$
 - ==Software Mandate:== It is mandatory to perform trajectory simulations using OpenRocket and attach the outputs to your reports.
 - ==Payload Configuration:== The payload must not be entered as an "Unspecified Mass". It must be specifically named "PAYLOAD" and its mass must be entered as a minimum of 4,000 grams (4 kg).
 - ==Launch Conditions:== You must use the exact values shown on the “Launch Simulation” screen provided in Figure 3.2 of the rulebook (e.g., wind speed, launch site altitude, launch rod length). Reports missing simulations with these exact values will not be evaluated.
+	- ![values_to_simulate for.png|500](/img/user/TeknoFest/attachments/values_to_simulate%20for.png)
 - ==Data Consistency:== The data in your submitted OpenRocket (.ork) files must be perfectly identical to the data presented in your PDR and CDR reports.
 
 ### 4. Materials & Structural-Aerodynamic Overlaps
