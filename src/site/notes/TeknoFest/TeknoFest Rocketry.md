@@ -51,7 +51,7 @@
 
 - ==**Target and Minimum Altitudes:==** Your rocket must reach a minimum altitude of 8,000 ft. Furthermore, you must hit your officially declared target altitude with a maximum tolerance of ==**±15%==**.
 - ==**Stability Margin:==** Rockets in the A4 category must have a stability value between 1.5 and 2.5 at Mach 0.3.
-    - _Note on Calculation:_ The rulebook defines Static Margin (SM) as the dimensionless number obtained by dividing the distance between the center of pressure (XCP​) and the center of gravity (XCG​) by the rocket body diameter (DB​):
+    - _Note on Calculation:_ The rulebook defines Static Margin (SM) as the dimensionless number obtained by dividing the distance between the center of pressure ($X_{CP}$​) and the center of gravity ($X_{CG}$​) by the rocket body diameter ($D_{B}$):
 $$
 SM = \dfrac{X_{CP}-X_{CG}}{D_{B}}
 $$
