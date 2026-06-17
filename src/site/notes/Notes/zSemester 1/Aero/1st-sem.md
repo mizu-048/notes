@@ -1,0 +1,434 @@
+---
+{"dg-publish":true,"permalink":"/notes/z-semester-1/aero/1st-sem/"}
+---
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="1021.5583" height="432.66321" id="svg2" sodipodi:version="0.32" inkscape:version="0.48.2 r9819" sodipodi:docname="wing_profile_nomenclature_en.svg" inkscape:output_extension="org.inkscape.output.svg.inkscape" version="1.0">  <defs id="defs4">    <marker inkscape:stockid="Arrow1Mstart" orient="auto" refY="0" refX="0" id="marker9672" style="overflow:visible">      <path id="path3914" d="M 0,0 5,-5 -12.5,0 5,5 0,0 z" style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" transform="matrix(0.4,0,0,0.4,4,0)" inkscape:connector-curvature="0"/>    </marker>    <marker inkscape:stockid="Arrow1Mend" orient="auto" refY="0" refX="0" id="marker7939" style="overflow:visible">      <path id="path3917" d="M 0,0 5,-5 -12.5,0 5,5 0,0 z" style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" transform="matrix(-0.4,0,0,-0.4,-4,0)" inkscape:connector-curvature="0"/>    </marker>    <marker style="overflow:visible" id="DistanceEnd" refX="0" refY="0" orient="auto" inkscape:stockid="DistanceEnd">      <g id="g3964">        <path style="fill:none;stroke:#ffffff;stroke-width:1.14999998;stroke-linecap:square" d="M 0,0 -2,0" id="path2316" inkscape:connector-curvature="0"/>        <path style="fill:#000000;fill-rule:evenodd;stroke:none" d="M 0,0 -13,4 -9,0 -13,-4 0,0 z" id="path2312" inkscape:connector-curvature="0"/>        <path style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square" d="M 0,-4 0,40" id="path2314" inkscape:connector-curvature="0"/>      </g>    </marker>    <marker style="overflow:visible" id="DistanceStart" refX="0" refY="0" orient="auto" inkscape:stockid="DistanceStart">      <g id="g2300">        <path style="fill:none;stroke:#ffffff;stroke-width:1.14999998;stroke-linecap:square" d="M 0,0 2,0" id="path2306" inkscape:connector-curvature="0"/>        <path style="fill:#000000;fill-rule:evenodd;stroke:none" d="M 0,0 13,4 9,0 13,-4 0,0 z" id="path2302" inkscape:connector-curvature="0"/>        <path style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square" d="M 0,-4 0,40" id="path2304" inkscape:connector-curvature="0"/>      </g>    </marker>    <marker id="Arrow1Mstart" style="overflow:visible" orient="auto" refY="0" refX="0">      <path id="path4779" style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" transform="scale(0.4,0.4)" d="M 0,0 5,-5 -12.5,0 5,5 0,0 z" inkscape:connector-curvature="0"/>    </marker>    <marker id="Arrow1Mend" style="overflow:visible" orient="auto" refY="0" refX="0">      <path id="path4776" style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" transform="scale(-0.4,-0.4)" d="M 0,0 5,-5 -12.5,0 5,5 0,0 z" inkscape:connector-curvature="0"/>    </marker>    <marker id="Arrow2Mend" style="overflow:visible" orient="auto" refY="0" refX="0">      <path id="path4758" style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" transform="matrix(-0.6,0,0,-0.6,3,0)" d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" inkscape:connector-curvature="0"/>    </marker>  </defs>  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="1.0670144" inkscape:cx="514.29175" inkscape:cy="105.12624" inkscape:document-units="px" inkscape:current-layer="layer1" inkscape:window-width="1680" inkscape:window-height="1026" inkscape:window-x="0" inkscape:window-y="24" width="1000px" height="450px" showgrid="false" inkscape:snap-bbox="true" inkscape:object-nodes="true" inkscape:window-maximized="1" inkscape:snap-bbox-midpoints="true" inkscape:snap-object-midpoints="true" inkscape:snap-smooth-nodes="true" inkscape:object-paths="true" fit-margin-top="50" fit-margin-left="50" fit-margin-right="50" fit-margin-bottom="50" inkscape:showpageshadow="false" inkscape:snap-global="false" showguides="false" inkscape:guide-bbox="true">    <sodipodi:guide orientation="0.25881905,0.96592583" position="969.9209,538.977" id="guide10111"/>    <sodipodi:guide orientation="-0.96592583,0.25881905" position="529.49035,654.18962" id="guide10115"/>    <sodipodi:guide orientation="0.25881905,0.96592583" position="512.47965,590.70484" id="guide10117"/>    <sodipodi:guide orientation="0.96592583,-0.25881905" position="613.60725,635.24484" id="guide10119"/>    <inkscape:grid type="xygrid" id="grid3089" empspacing="5" visible="true" enabled="true" snapvisiblegridlinesonly="true"/>  </sodipodi:namedview>  <metadata id="metadata7">    <rdf:RDF>      <cc:Work rdf:about="">        <dc:format>image/svg+xml</dc:format>        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>        <dc:title/>      </cc:Work>    </rdf:RDF>  </metadata>  <g inkscape:label="Calque 1" inkscape:groupmode="layer" id="layer1" transform="translate(-557.41895,-762.13539)">    <path inkscape:transform-center-y="45.45422" inkscape:transform-center-x="-282.70013" id="use3985" style="fill:#ebebeb;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" d="m 1527.3335,1093.2253 c -197.4225,-87.701 -523.7297,-41.7747 -563.08337,-144.60942 -9.2899,-24.27537 30.61105,-73.07939 110.51987,-67.14509 82.1909,6.10378 223.318,56.51585 452.5635,211.75451 z" sodipodi:nodetypes="cssc" inkscape:export-filename="/home/olivier/1&amp;0s/Desktop/airf.png" inkscape:export-xdpi="122.01" inkscape:export-ydpi="122.01" inkscape:connector-curvature="0"/>    <path inkscape:transform-center-y="73.242749" inkscape:transform-center-x="-283.45052" sodipodi:nodetypes="cc" d="m 963.51954,941.8275 c 111.28306,-30.70973 430.24056,87.6673 563.88456,151.117" style="fill:none;stroke:#0b28c0;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:24.00000001, 3;stroke-dashoffset:0" id="use3989" inkscape:export-filename="/home/olivier/1&amp;0s/Desktop/airf.png" inkscape:export-xdpi="122.01" inkscape:export-ydpi="122.01" inkscape:connector-curvature="0"/>    <path inkscape:transform-center-y="76.95415" inkscape:transform-center-x="-283.51182" id="use3987" style="fill:none;stroke:#c3310b;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:18, 6;stroke-dashoffset:0" d="M 963.56895,941.82629 1527.4773,1092.8545" sodipodi:nodetypes="cc" inkscape:export-filename="/home/olivier/1&amp;0s/Desktop/airf.png" inkscape:export-xdpi="122.01" inkscape:export-ydpi="122.01" inkscape:connector-curvature="0"/>    <text xml:space="preserve" id="use3991" style="font-size:36.51980591px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;text-anchor:start;fill:#c3310b;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans" y="859.93048" x="1102.4125" sodipodi:linespacing="125%" inkscape:export-filename="/home/olivier/1&amp;0s/Desktop/airf.png" inkscape:export-xdpi="122.01" inkscape:export-ydpi="122.01"><tspan id="tspan4073" y="859.93048" x="1102.4125" style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#c3310b;fill-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L">chord line</tspan></text>    <text xml:space="preserve" id="use3993" style="font-size:44.58574295px;font-style:normal;font-weight:normal;line-height:100%;fill:#088932;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans" y="897.46289" x="606.11273" sodipodi:linespacing="100%" inkscape:export-filename="/home/olivier/1&amp;0s/Desktop/airf.png" inkscape:export-xdpi="122.01" inkscape:export-ydpi="122.01"><tspan style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#088932;fill-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L" id="tspan3129">α</tspan></text>    <text xml:space="preserve" style="font-size:25.12389565000000147px;font-style:normal;font-weight:normal;fill:#8f8f8f;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;text-anchor:end;text-align:end" x="1508.9591" y="1140.2666" id="use3995" inkscape:export-filename="/home/olivier/1&amp;0s/Desktop/airf.png" inkscape:export-xdpi="122.01" inkscape:export-ydpi="122.01"><tspan sodipodi:role="line" id="tspan4061" style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#8f8f8f;fill-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L" x="1508.9591">trailing edge</tspan></text>    <text xml:space="preserve" style="font-size:25.12389565px;font-style:normal;font-weight:normal;text-align:end;text-anchor:end;fill:#8f8f8f;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans" x="940.46417" y="988.539" id="use3997" inkscape:export-filename="/home/olivier/1&amp;0s/Desktop/airf.png" inkscape:export-xdpi="122.01" inkscape:export-ydpi="122.01"><tspan sodipodi:role="line" style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#8f8f8f;fill-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L" id="tspan4081" x="940.46417">leading edge</tspan></text>    <text inkscape:export-filename="/home/olivier/1&amp;0s/Desktop/airf.png" id="use3999" y="941.4483" x="1351.8092" style="font-size:25.12389565px;font-style:normal;font-weight:normal;fill:#8f8f8f;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans" xml:space="preserve" inkscape:export-xdpi="122.01" inkscape:export-ydpi="122.01"><tspan style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#8f8f8f;fill-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L" id="tspan4065" sodipodi:role="line" x="1351.8092">upper surface</tspan></text>    <text inkscape:transform-center-y="-2.2827493" xml:space="preserve" style="font-size:25.12389565px;font-style:normal;font-weight:normal;fill:#8f8f8f;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans" x="1281.2606" y="1083.2721" id="use4001" inkscape:transform-center-x="17.078078" inkscape:export-filename="/home/olivier/1&amp;0s/Desktop/airf.png" inkscape:export-xdpi="122.01" inkscape:export-ydpi="122.01"><tspan sodipodi:role="line" id="tspan4057" style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#8f8f8f;fill-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L" y="1083.2721">lower surface</tspan></text>    <text sodipodi:linespacing="125%" x="1212.2616" y="892.87054" style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;text-anchor:start;fill:#0b28c0;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans" id="use4003" xml:space="preserve" inkscape:export-filename="/home/olivier/1&amp;0s/Desktop/airf.png" inkscape:export-xdpi="122.01" inkscape:export-ydpi="122.01"><tspan style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0b28c0;fill-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L" x="1212.2616" y="892.87054" id="tspan4069">camber line</tspan></text>    <path id="use4005" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-mid:url(#Arrow1Mstart);marker-end:url(#marker7939)" d="m 1153.1169,1063.7718 18.8878,-70.49022 7.3354,-27.37578" sodipodi:nodetypes="ccc" inkscape:export-filename="/home/olivier/1&amp;0s/Desktop/airf.png" inkscape:export-xdpi="122.01" inkscape:export-ydpi="122.01" inkscape:connector-curvature="0"/>    <text inkscape:export-filename="/home/olivier/1&amp;0s/Desktop/airf.png" id="use4007" y="1081.2468" x="1154.288" style="font-size:22px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;text-anchor:middle;text-align:center" xml:space="preserve" inkscape:export-xdpi="122.01" inkscape:export-ydpi="122.01"><tspan style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L;text-anchor:middle;text-align:center" y="1081.2468" x="1097.6696" id="tspan4053" sodipodi:role="line">max. camber</tspan></text>    <path sodipodi:open="true" sodipodi:end="3.4033585" sodipodi:start="3.1415927" inkscape:export-ydpi="122.01" inkscape:export-xdpi="122.01" inkscape:export-filename="/home/olivier/1&amp;0s/Desktop/airf.png" sodipodi:type="arc" style="fill:none;stroke:#088932;stroke-width:2.61613464;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#DistanceStart);marker-end:url(#DistanceEnd)" id="use4009" sodipodi:cx="884.69366" sodipodi:cy="393.38474" sodipodi:rx="312.8085" sodipodi:ry="312.8085" d="m 571.88516,393.38472 c 0,-27.33322 3.58251,-54.54855 10.65598,-80.95065" transform="matrix(0.76448663,0,0,0.76448663,215.05569,621.95632)"/>    <text xml:space="preserve" style="font-size:25.12389565000000147px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;text-anchor:middle;text-align:center" x="721.39111" y="956.84052" id="use4011" inkscape:export-filename="/home/olivier/1&amp;0s/Desktop/airf.png" inkscape:export-xdpi="122.01" inkscape:export-ydpi="122.01"><tspan sodipodi:role="line" style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L" id="tspan4039" x="721.39111">relative wind</tspan></text>    <text inkscape:export-ydpi="122.01" inkscape:export-xdpi="122.01" inkscape:export-filename="/home/olivier/1&amp;0s/Desktop/airf.png" id="use4013" y="833.99139" x="606.60498" style="font-size:25.12389565px;font-style:normal;font-weight:normal;fill:#088932;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans" xml:space="preserve"><tspan id="tspan4077" style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#088932;fill-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L" y="833.99139" x="606.60498" sodipodi:role="line">angle of attack</tspan></text>    <path inkscape:transform-center-x="-25.801565" transform="matrix(1.8509317,0,0,1.8509317,-68.300729,473.3844)" d="m 583.83567,252.98689 c 0,7.3657 -5.97107,13.33677 -13.33677,13.33677 -7.36569,0 -13.33677,-5.97107 -13.33677,-13.33677 0,-7.36569 5.97108,-13.33677 13.33677,-13.33677 7.3657,0 13.33677,5.97108 13.33677,13.33677 z" sodipodi:ry="13.336769" sodipodi:rx="13.336769" sodipodi:cy="252.98689" sodipodi:cx="570.4989" id="use4015" style="opacity:0.35390948;fill:none;stroke:#c51212;stroke-width:0.54026842;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" sodipodi:type="arc"/>    <path sodipodi:nodetypes="cc" inkscape:connector-curvature="0" id="use4017" d="m 1100.2743,864.21487 -73.4512,89.38106" style="fill:none;stroke:#c3310b;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"/>    <path sodipodi:nodetypes="cc" inkscape:connector-curvature="0" id="use4019" d="m 1205.9049,895.49039 -45.7658,58.5385" style="fill:none;stroke:#0b28c0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"/>    <path inkscape:connector-curvature="0" inkscape:export-ydpi="122.01" inkscape:export-xdpi="122.01" inkscape:export-filename="/home/olivier/1&amp;0s/Desktop/airf.png" sodipodi:nodetypes="ccc" d="m 1069.8986,1041.4735 8.397,-31.3379 31.8011,-118.68339" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-mid:url(#marker9672);marker-end:url(#Arrow1Mend)" id="use4021"/>    <text inkscape:export-ydpi="122.01" inkscape:export-xdpi="122.01" xml:space="preserve" style="font-size:21.50452423000000124px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;text-anchor:middle;text-align:center" x="1060.7412" y="1055.9589" id="use4023" inkscape:export-filename="/home/olivier/1&amp;0s/Desktop/airf.png"><tspan sodipodi:role="line" id="tspan4049" x="997.48804" y="1055.9589" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L;text-anchor:middle;text-align:center">max. thickness</tspan></text>    <path inkscape:connector-curvature="0" inkscape:export-ydpi="122.01" inkscape:export-xdpi="122.01" inkscape:export-filename="/home/olivier/1&amp;0s/Desktop/airf.png" sodipodi:nodetypes="cc" d="m 724.6038,878.10887 238.96515,63.71742" style="opacity:0.31687239;fill:none;stroke:#8f8f8f;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:48, 2;stroke-dashoffset:0" id="use4025" inkscape:transform-center-x="-283.51182" inkscape:transform-center-y="76.95415"/>    <path id="use4027" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)" d="m 635.92866,922.59161 188.08377,0.32781" sodipodi:nodetypes="cc" inkscape:export-filename="/home/olivier/1&amp;0s/Desktop/airf.png" inkscape:export-xdpi="122.01" inkscape:export-ydpi="122.01" inkscape:connector-curvature="0"/>    <path style="fill:none;stroke:#8f8f8f;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)" d="m 937.25566,973.29823 18.1459,-21.90046" id="use4029" inkscape:connector-curvature="0" sodipodi:nodetypes="cc"/>    <path style="fill:none;stroke:#8f8f8f;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)" d="m 1511.8231,1126.076 11.8593,-25.8508" id="use4031" inkscape:connector-curvature="0" sodipodi:nodetypes="cc"/>    <path style="fill:none;stroke:#8f8f8f;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)" d="m 1280.2964,1068.0088 -9.8934,-26.665" id="use4033" inkscape:connector-curvature="0" sodipodi:nodetypes="cc"/>    <path style="fill:none;stroke:#8f8f8f;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)" d="m 1348.8239,944.44212 -11.8593,25.85072" id="use4035" inkscape:connector-curvature="0" sodipodi:nodetypes="cc"/>  </g></svg>
+[Airflow](https://ciechanow.ski/airfoil/)
+
+## Definitions
+- **Pressure:** Pressure is the normal force per unit area exerted on a surface due to the time rate of change of momentum of the gas molecules impacting on that surface i.e. $p=\underset{ dA \to 0 }{ \lim }(\dfrac{dF}{dA});$
+	-  $dA=$An incremental area around
+	  $dF=$ Force on one side of $dA$ due to pressure
+	  
+	- **Units:** Units: $\pu{ Nm^{-2} }$(Pascals), lb/ft2, $\pu{atm}$ 
+- **Density:** The density of a substance  is the mass of that substance per unit volume. $\rho=\underset{ dV \to 0 }{ \lim }(\dfrac{dm}{dV})$
+	- Units: $kg/m^{-3}$, slug/ft$^{-3}$,  g/cm$^{-3}$
+- **Temperature:** Temperature is a measure of the average kinetic energy of the particles in the gas. If kinetic energy is the mean molecular kinetic energy
+	-  then temperature is given by: $\ \pu{ K.E }=\dfrac{3}{2}k\times T$ 
+	- where $k$ is Boltzmann constant = $1.38\times 10^{-23} \ \pu{ J K^{-1}} \to$ Joule per Kelvin
+	- Units: Kelvin(K), Celsius($^{o}$C), Fahrenheit ($^{o}$F) and degree Rankine ($^{o}$R)
+	- PS: *Rankine* is basically Kelvin scale but for Fahrenheit $1^{o}R = 1^{o}F$
+	- Conversions of temperature units:
+$$\begin{align}
+\ ^{o}R= \ ^{o}F + 459.67 \\
+\ K = \ 
+{ #oC}
+ + 273.15 \\
+\ ^{o}F = \ (^{o}C \times 1.8)+32 \\
+\end{align}$$
+- 1 knot =$0.5144 \ \pu{ ms^{-1}}$
+  $1.944$ knot $\approx 2$ knot = 1 $\pu{ ms^{-1}}$
+- **Speed of sound:** $𝑎 = \sqrt{𝛾𝑅𝑇}$, where $R$ is gas constant, $T$ is temperature and $𝛾$ ratio of specific heats.
+	-  For air, $\qquad 𝛾 = 1.4$, $R =287 \ \pu{J kg^{-1} K^{-1}}\simeq$
+
+- **Mach Number**: The ratio of speed of object to the speed of sound(=) in respective medium
+	- $𝑀 = \dfrac{V}{a}$, where $V$ is the speed of the object
+$$\begin{align}
+M < 1 \qquad & :\qquad Subsonic \\
+M = 1 \qquad & :\qquad Sonic\\
+0.8 ≤ M ≤ 1.2 \qquad & : \qquad Transonic \\
+M > 1 \qquad & :\qquad Supersonic \\
+M > 5 \qquad & :\qquad Hypersonic \\
+\end{align}
+$$
+- **G-force:** It measures acceleration relative to earth's gravity ($9.8 \ \pu{ m/s^{-2} }$It is used for sustained accelerations that cause a perception of weight, on earth an object at rest experiences a g-force of 1
+- **Load Factor:** is a measure of the stress of the experienced by the structure, ratio of lift to weight of the aircraft, it has no units but is often represented in G units
+{ #loadfactor}
+
+	- $\dfrac{\text{Lift}}{\text{Weight}}$
+	- > 1 when gaining elevation
+	- 0 < x < 1 when loosing elevation
+	- < -1 when upside down
+- **Wing loading:** total aircraft weight divided by wing area
+- **Angle of Incidence**: The angle between the longitudinal axis of plane and chord line of the wing, it is fixed and set during the manufacturing of the plane
+- **Angle of Attack:** The angle between the
+- The point for center of gravity is not fixed, as its weight distribution changes as the fuel is burned during the flight
+- **Center of pressure:** is where the center of the entire lift on the plane is
+- **Aerodynamic Center:** is the point where the pitching moment acts about
+- Flaps and slats are called high-lift devices
+
+>[!tldr]- sources of natural aerodynamic forces sources:
+> - Pressure distribution on the surface.
+> - Shear stress (friction) on the surface.  
+> 	- shear stress ($τ_{w}$) is defined as the force per unit area acting tangentially on the surface due to friction.
+> 	
+> 	- The net unbalance of the varying pressure distribution and shear stress distribution over the surface creates an aerodynamic force.
+> - ![source of aerodynamic forces.png](/img/user/Notes/zSemester%201/Aero/attachments/source%20of%20aerodynamic%20forces.png)
+
+>[!tldr]- Components in aerodynamic forces:
+> - Lift
+> 	- force on an object moving in fluid opposing its weight 
+> 	- is a vector quantity
+> 	- acts through **center of pressure** not necessarily center of weight
+> - Drag
+> 	- force opposing motion through the fluid
+> 	- also vector
+
+>[!tldr]- Anatomy
+>![aeroplane_anatomy.png|center|900](/img/user/Notes/zSemester%201/Aero/attachments/aeroplane_anatomy.png)
+>![basic components of an airplane.png|center|900](/img/user/Notes/zSemester%201/Aero/attachments/basic%20components%20of%20an%20airplane.png)
+>![control surfaces of a plane.png|center|900](/img/user/Notes/zSemester%201/Aero/attachments/control%20surfaces%20of%20a%20plane.png)
+
+> [!tldr]- Drag
+> 
+> - **Parasitic Drag**
+> 	- caused due to the profile/shape of any object moving through a fluid
+> 	- **Form Drag**: due to size and shape 
+> 	- **Skin/Friction Drag**: due to surface texture and smoothness 
+> 	- ![parasitic drag types.png|center|500](/img/user/Notes/zSemester%201/Aero/attachments/parasitic%20drag%20types.png)
+> - **Induced Drag:**
+> 	-  produced by part that produce lift, mainly due to the downwash of the vortices produced at the edge of wing tips
+> 	- ![induced drag.png|center|400](/img/user/Notes/zSemester%201/Aero/attachments/induced%20drag.png)
+
+
+## Airfoils
+- An airfoil is the cross-sectional shape of a wing, sail or blade (of a propeller, rotor, or turbine).
+>[!tldr]- NACA MPXY:
+> ![[airfoil.mp4]]
+> -  **M**: M% of chord length is **max camber** $\to$ $m=\dfrac{A\times c}{100}$
+> - **P**: the distance **max camber** from leading edge in tenths of the chord $\to$ $p=\dfrac{B\times c}{10}$
+> - **XY**: XY% of chord length is the **max thickness**$\to$ $T=\dfrac{XY\times c}{100}$
+> - e.g. NACA 2412 has
+> 	- $2 \%$ of chord is max camber
+> 	- $40 \%$ along the length from leading edge is the position of max camber
+> 	- $12 \%$ of chord is max thickness of foil
+
+>[!tldr]- camber line/mean camber line
+> - it consists of two separate curves, one from leading edge to $p$ the other from $p$ to trailing edge
+> ![mean_camber_line.png|center|900](/img/user/Notes/zSemester%201/Aero/attachments/mean_camber_line.png)
+
+>[!tldr]- Canard Configuration 
+> - The horizontal stabilizer is mounted ahead of the wing rather than at the  rear of the airplane.
+> - e.g. in Saab 37 Viggen or in Wright Flyer
+>![canard-configuration in Saab 37 Viggen.jpg|center|800](/img/user/Notes/zSemester%201/Aero/attachments/canard-configuration%20in%20Saab%2037%20Viggen.jpg)
+
+>[!tldr]- Swept Wings
+> - Straight:
+>	- Straight wings are common on slower aircraft; they provide excellent lift at low speeds and great stability, perfect for trainers, bush planes, and light aircraft.
+> - Back-swept:
+> 	- back-swept wings (angled backward) are found on most modern jets. They delay shock waves at high speed, improve maneuverability, hence reduce drag in transonic flight.
+> - Forward-Swept:
+> 	Forward-swept wings are rare ,but offering greater agility and stall resistance though they often pose structural challenges.
+
+>[!tldr]- Pressure
+> - $\underbrace{ p }_{ \substack{ {\text{static}} \\ {\text{pressure}} } } +\underbrace{ \dfrac{1}{2}\overbrace{ \rho }^{ density } \overbrace{ V^{2} }^{ velocity } }_{ \underset{ pressure }{ Dynamic } }=\underbrace{ p_{o} }_{ \underset{ pressure }{ Total } }$
+
+
+- **Aspect ratio:** $\dfrac{b^{2}}{A};\qquad$ where $b$ is the span(length from end to end) of the wing and $A$ is the area
+	- for a rectangular wing this is reduce to
+	  $=\dfrac{b}{c}$ where c is chord length
+- 
+# Body Design
+## Tail designs
+![Tails-1.png](/img/user/attachments/Tails-1.png)
+
+- **Empennage:** an arrangement of *stabilizing surfaces* at the tail of an aircraft.
+	- gives airplane directional stability like *pitch* and *yaw* through *elevators* and *rudders*, respectively
+
+- **T-Tail:**
+	- **Pros:**
+		- Is more immune to wake turbulence[^2]
+	- **Cons:**
+		- Structurally heavier
+		- susceptible to deep stalls[^1] at high angles of attack
+		- requires a still rear end of the fuselage to torsional affects
+		- more prone to flutters
+- **V-Tail:**
+	- **Pros:**
+		- Only two lifting surfaces
+		- reduced weight and manufacture cost
+	- **Cons:**
+		- may form a couple with rudders, reducing flight control
+
+- **H-Tail/Twin-Tail:**
+	- **Pros:**
+		- Is more immune to interference more propulsion systems installed at the rear
+	- **Cons:**
+		- 
+
+
+[^1]: in deep stalls the turbulent flow from the wing blankets the tail surfaces
+
+[^2]: Wake turbulence is the disturbance in the atmosphere caused by wingtip vortices trailing behind an aircraft as it generates lift
+
+## Wing design:
+![wings.png|center|900](/img/user/Notes/zSemester%201/Aero/attachments/wings.png)
+![wing shapes.png|center|500](/img/user/Notes/zSemester%201/Aero/attachments/wing%20shapes.png)
+
+- **Cantilevered:** no external support to wing
+![cantilever.png|center|200](/img/user/Notes/zSemester%201/Aero/attachments/cantilever.png)
+![more wings.png|center|600](/img/user/Notes/zSemester%201/Aero/attachments/more%20wings.png)
+![wing tips.png|center|700](/img/user/Notes/zSemester%201/Aero/attachments/wing%20tips.png)
+
+## Engine Placements:
+![engine number designs.png|center|600](/img/user/Notes/zSemester%201/Aero/attachments/engine%20number%20designs.png)
+![engine placement.png|center|600](/img/user/Notes/zSemester%201/Aero/attachments/engine%20placement.png)
+
+
+## Flaps:
+
+![flaps.png|center|700](/img/user/Notes/zSemester%201/Aero/attachments/flaps.png)
+
+- **Plain flap:** simplicity and moderate lift but limited effectiveness at low airspeeds
+- **Split flaps:** more lift but also more drag
+- **Slotted flaps:** prevent flow separation and generate higher lift
+![fowler flaps.png|center|700](/img/user/Notes/zSemester%201/Aero/attachments/fowler%20flaps.png)
+- **Fowler flaps:**  greater lift and lower drag, but heavier and more complex
+- **Junkers flaps:**  create lots of lift but also alot of drag 
+- **Gurney flaps:**  simple and good for stall delays, but create mediocre life and drag 
+- 
+## Undercarriage
+- Undercarriage is all the structure that support the entire weight of the aircraft while it is on the ground
+- ![undercarriage.png|center|300](/img/user/Notes/zSemester%201/Aero/attachments/undercarriage.png)
+- Tricycle is the most common one and includes two leg assemblies, called **bogies** and a **steerable** nose wheel.
+- some planes might have more than one wheel on each leg
+- wheels on smaller planes do no retract, which introduces more drag in which case **spat** might be used to streamline the airflow around it
+- ![ski float planes.png|center|500](/img/user/Notes/zSemester%201/Aero/attachments/ski%20float%20planes.png)
+- ski or water planes might have floats 
+# More stuff
+
+>[!tldr]- Rotations in an aeroplane
+> - **Longitudinal Axis:** Along the length of the fuselag, symbolized with $M_{x}$
+> - **Lateral Axis:** Perpendicular to longitudinal along the plane of the aircraft, symbolized with $M_{y}$
+> - **Vertical Axis:** Normal to the aircraft's plane, symbolized with $M_{z}$
+> ![pitch-roll-yaw.gif|center|600](/img/user/Notes/zSemester%201/Aero/attachments/pitch-roll-yaw.gif)
+
+>[!tldr]- Square Cube Law
+>- As the aircraft's size increases, its volume (and thus weight) increases by the cube of the scaling factor, while its wing area (and thus lift) increases by the square. 
+
+>[!tldr]- Trim
+>- The aircraft's flight is **steady, unaccelerated and in equilibrium**
+>- Weight is equal to Lift and thrust is equal to the drag
+>- All moments about, each axis is also 0
+
+- Constraining the center of gravity to a point near the center of pressure is necessary because as it moves away, the torque generated by the tail is 
+
+> [!tldr]- Drag polar
+> - relation between the lift and drag coefficient
+> - at subsonic flights, upto a wing stall, it can to a high level confidence be assumed to be:
+> - $C_{D}=\underbrace{ C_{D_{0}} }_{\substack{ {\text{Non-Lifting }} \\{\text{drag}} }}+\underbrace{ \dfrac{(C_{L})^{2}}{\pi  e \ AR} }_{  \substack{ {\text{Induced}} \\{ \text{drag}} } }=C_{D_{0}}+C_{Di}$
+> 	- 1st term is parasitic or non-lifting drag
+> 	- 2nd term is induced drag, where **AR** is the aspect ratio of the wing and $e$ is the Oswald's Wing Efficiency Coefficient ($e <1$)
+
+> [!tldr]- Stress
+> - ![types of stress.png|center|300](/img/user/Notes/zSemester%201/Aero/attachments/types%20of%20stress.png)
+> - stress is the force acting per unit area that causes deformation
+> - represented by sigma($\sigma$)
+> - the
+> 
+
+# Lecture 5
+# Stability and Control
+![stability_control.png|500](/img/user/Notes/zSemester%201/Aero/attachments/stability_control.png)
+## Axis Definiton:
+![axes and symbols.png|400](/img/user/Notes/zSemester%201/Aero/attachments/axes%20and%20symbols.png)
+
+| Linear | Rotation | Moment | Coefficient |  Direction   |  Angle   | Velocity | Force | Angular<br>Rate | Dynamic<br>Pressure |
+| :----: | :------: | :----: | :---------: | :----------: | :------: | :------: | :---: | :-------------: | :-----------------: |
+|  $x$   |   Roll   |  $L$   |  $C_\ell$   | Longitudinal |  $\phi$  |   $U$    |  $X$  |       $P$       |      $\bar{p}$      |
+|  $y$   |  Pitch   |  $M$   |    $C_m$    |   Lateral    | $\theta$ |   $V$    |  $Y$  |       $Q$       |      $\bar{q}$      |
+|  $z$   |   Yaw    |  $N$   |    $C_n$    |   Vertical   |  $\psi$  |   $W$    |  $Z$  |       $R$       |      $\bar{r}$      |
+
+- Side slip angle $\beta$ 
+	- Drawn on x-y axes
+- Angle of attack $\alpha$
+	- Drawn on x-z axes
+- Subscripts:
+	- B - Body axis
+		- $x_{\ b}$  - longitudinal axis, along the aircrafts length
+		- $y_{\ b}$  - Lateral axis, along the aircraft's wing length
+		- $z_{\ b}$  - vertical axis, perpendicular to the plane of the aircraft
+	- S - Stability axis
+		- same as body axis except we rotate on $y_{b}$ axis by an angle of attack ($\alpha$)
+	- W - Wind Axis
+		- Similar to stability axis except it is rotated on the vertical $z_{b}$ axis by a side slip angle $\beta$
+  
+  - Euler angles $\delta$ define the 3D orientation of the aircraft.
+	- Negative Deflections is positive aircraft response
+	- Positive Aircraft response is:
+		- Nose-Rightwards Yaw
+		- Clockwise roll (from sitting inside plane)
+		- Nose-Upward Pitch
+	- $\delta_{r}$ for rudder
+	- $\delta_{a}$ for ailerons
+	- $\delta_{e}$ for elevators
+	- ![eular's angle.png|500](/img/user/Notes/zSemester%201/Aero/attachments/eular's%20angle.png)
+
+
+- while all inputs are coupled on all three axes to some degree, **pitch/angle of attack** acts separate from the **yaw** or **roll**
+- meanwhile both **yaw** and **roll** are considered coupled and cannot be considered separate for stablity and control analysis
+
+
+
+
+## Stability:
+- Tendency to return to orignal state after disturbance
+
+> [!tldr]- Static and Dynamic:
+> - **Static:** Its static because we only look at the tendency to return at any given moment
+> 	- **==Positive==:** comes back to orignal state
+> 	- **Neutral:** stays in the disturbed state
+> 	- **Negative:** continue to drift away from orignal state
+> 	- ![static stability.png|300](/img/user/Notes/zSemester%201/Aero/attachments/static%20stability.png)
+> 	- 
+> - **Dynamic:** Its dynamic since we considere the tendency to return over a period of time, determining if it actually comes back or not
+> - ![static and dynamic stability examples.png|600](/img/user/Notes/zSemester%201/Aero/attachments/static%20and%20dynamic%20stability%20examples.png)
+> - **a)** its approaching  orignal position so its statically stable, disturbance is dying so its dynamically stable
+> - **b)** its approaching orignal position so its statically stable, disturbance is increasing so it is dynamically unstable
+> - **c)** again, its approaches orignal so statically stable, disturbance isnt increasing or decreasing so its dynamically neutral
+> - **d)** its not approaching orignal position, and just moving away so its statically unstable, correspondingly also dynamically unstable
+
+- Types:
+
+> [!NOTE]- Longitudinal Stability
+> - concerned with pitch/angle of attack
+> - Pitching Moment Co-efficient: $C_m\triangleq\dfrac{M}{\underbrace{q}_{ \frac{1}{2}\rho V^2  } S\bar{c}}$
+> - $C_{m}$ is positive for nose-upward pitch and negative for downward
+> - Conditions for longitudinal stabiltiy:
+> 	- Change in pitching coefficeint with qangle of attack ($\dfrac{d}{d\alpha}C_{m}=C_{M\alpha}<0$); meaning that as angle of attack increase, pitching coefficient should become negative(downward) for stability
+> 	- $C_{M_{0}}> 0$, $C_{M_{0}}$ is the pitching moment coefficient at zero angle of attack, **it should be positive**, for the plane to actually generate lift
+> 	  
+
+> [!NOTE]- Lateral Stability 
+> - concerned with rolling
+
+> [!NOTE]- Direction Stability
+> - concerned with yaw
+## Pitching Moment Co-efficient
+
+##  Truss analysis
+- Roller onlyf has vertical reaction
+## Misc
+> [!NOTE]- Hydraulics
+> ![hydraulic system schematic.png|400](/img/user/Notes/zSemester%201/Aero/attachments/hydraulic%20system%20schematic.png)
+> - Works on pascal's law: $\dfrac{F_{1}}{A_{1}}=\dfrac{F_{2}}{A_{2}}$
+> - Why:
+> 	- prooduce more power than electrical systems
+> 	- More fire resistant
+> 	- works over a broad range of temperatures
+> 	- Also provides lubrication for other components
+> 	- Also as a system cooolant
+> - **Components:**
+> 	- **Accumulator:** Damppens pressure fluctuations in hydraulic systems
+> 		- Its a sphere with two portions divided by rubber diaphram
+> 		- Upper has fluid at system pressure, Lower is filled with nitrogen or air
+> 		- Stores power for limited operations and acts as aid or supplement for power pumps
+> 	- **Hydraulic Reservoirs**: storage for fluid
+> 		- Also replenishes any leaked fuel
+> 	- **Hydraulic Pump**: convert other powers into hydraulic power
+> 		- may be driven by Engine, Electric Motor or Air.
+> 		-  For emergency or ground operations, electric pumps are used
+> 	- **Hydraulic actuator**: convert hydraulic power into mechanical power
+> 		- does so by creating linear motion on a shaft
+> 		- consists of a polished bore and some ports through which  fluid enters or leave to create motion
+> - **Emergency Procedure:**
+> 	- RAT (Ram Air Turbine): present below aircraft may be deployed to provide emergency power
+> 	- Stand by reservior
+> 	- Manual pumps
+> 	- Pressured cylinders 
+
+
+> [!NOTE]- Electrical Systems
+> - Most commonly operate at $115$ VAC 400Hz and $28$VDC
+> - Although both AC and DC are used, DC is the primary source in light aircraft due to its storage capabilities
+> - AC is used in larger aircrafts due to lesser loss over long distances
+> - **DC Sources**:
+> 	- Lead acid battery
+> 		- **Pro:** Good capacity and discharge rate
+> 		- **Con:** Heavy and suffers from corossion
+> 	- Ni-Cad battery
+> 		- **Pro:** low maintenace, wide temp. operating range
+> 		- **Con:** toxic, generates heat
+> 	- DC generator
+> - **AC Source:**: alternator(converts DC to AC)
+>
+> - **Protection:**
+> 	- Fuses, Circuiit breakers, diodes
+
+
+> [!NOTE]- Flight Instruments
+> ![flight instruments.png|400](/img/user/Notes/zSemester%201/Aero/attachments/flight%20instruments.png)
+> ## Pitot Tube 
+> ![Pitot Tube.png|400](/img/user/Notes/zSemester%201/Aero/attachments/Pitot%20Tube.png)
+> - We use two tubes, one for static and one for  dynamic pressure
+>   $V_{1}=\sqrt{ \dfrac{2(p_{2}-p_{s})}{\rho} }$
+> - Heating Element is used to prevent ice from forming
+>
+> - **True AirSpeed($V_{\infty}$):** actual speed of an aircraft relative to undisturb mass of air.
+> - **Indicated AirSpeed($V_{\infty}$):** caliberated TAS based on MSL conditions, shows reading on ASI
+> - **True AirSpeed($V_{\infty}$):** actual speed of an aircraft relative to undisturb mass of air.
+> - **Caliberated AirSpeed($V_{\infty}$):** corrected ASI for errors like static positioning or instrument.
+> - **Equivalent AirSpeed($V_{\infty}$):** reading on error free ASI and gives dynamic pressure, must also be correced for compressibility affects if at greater Mach than 0.3 to find TAS
+> - 
+
+
+## Propulsion Systems:
+- **Air-Breathing Propulsion System:** mechanical power source and a propulsor that does on the incoming air to increase momentum and create propulsion
+- **Jet Engine:** non air breathing system, it works by expelling high speed cases which are a product of combustion of fuel and oxidizer
+
+
+- **Types of propulsion systems:**
+	- **TurboJet Engine**: produces pure jet thrust and via intake compression, combustion, turbine and exhaust. Stages like turbine help compression and intake which inturn help the turbine
+	  ![turbojet.png|250](/img/user/Notes/zSemester%201/Aero/attachments/turbojet.png)
+		- **Pros**:
+			- Relatively simple design
+			- Capable of very high speeds
+			- Takes up little space
+		- **Cons**:
+			- High fuel consumption
+			- Loud
+			- Poor performance at slow speeds
+	The following are different forms of turbo jet engines
+	- **Turboprop Engine**: turbojet spins a shaft, which through a gear box spins the propeller
+	  ![turboprop.png|250](/img/user/Notes/zSemester%201/Aero/attachments/turboprop.png)
+		- **Pros**:
+			- fuel efficient
+			- most efficient at mid-range speeds between 250-400 knots
+			- most efficient at mid range altitudes 18k-30k feet
+		- **Cons**:
+			- More failure points with heavy gear systems
+			- limited forward airspeed
+	- **Turbofan Engine**: best of turboprop and turbojet, a ducted fan acts as propeller and air intake. The main thrust generation is from the fan(about 70%), which is driven by the turbojet and the turbojet is assissted by the fan intake
+	  
+	  Bypass ratio(BPR)$= \dfrac{\text{mass flow rate of bypass stream}}{\text{mass flow rate of flow through core}}$
+	  higher BPR, higher the thrust producing efficiency
+	  ![turbofan.png|250](/img/user/Notes/zSemester%201/Aero/attachments/turbofan.png)
+		- **Pros**:
+			- Provides additional ooling to the engine
+			- Lower noise
+			- Fuel efficient
+		- **Cons**:
+			- Heavier than turbojet
+			- inefficient at high altitudes
+			- much larger in size
+	- **Turboshaft Engine**: mainly used on helicopters, difference from turboprop is that the majority of the power from the turbojet goes to turning the shaft than producing thrust
+	  ![turboshaft.png|250](/img/user/Notes/zSemester%201/Aero/attachments/turboshaft.png)
+		- **Pro**:
+			- higher power to weight ratio
+			- smaller in size
+		- **Con**:
+			- Loud
+			- more points of failure with gear box
+	- **Piston Engine**: uses internal combustion engine like cars to turn a shaft similiar to turboshaft engine, smaller helicopters may use piston engine isntead of shaft engine
+	  
+	  
+- electric motors convert about 60% of the energy into useful work
+  while conventional engines convert only 20%
+  
+  
+  
+  
+  $\text{lift curve slope}=a=\dfrac{\Delta C_{L}}{\Delta \alpha}$
+- $\text{Lift coefficient at given angle}=C_{L}=a(\alpha-\alpha_{L=0})$
+- $\text{slope of the moment-lift=}\dfrac{d}{dC_{L}}C_{m}=\dfrac{C_{M2}-C_{M_{1}}}{C_{L2}-C_{L1}}=(h-h_{ac})$
+- 
