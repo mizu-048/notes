@@ -827,7 +827,7 @@ since $\cos ec^{-1}(\dfrac{1}{2})=\sin^{-1}(2)$ and $\sin$ never gives 2, and ra
 	- Odd: $f(-x)=-f(x);\qquad$graph is symmetric with respect to origin
 	  
 - if $f(x) =f'(x)$ its called involution and give same results for same value of all values of x e.g. $e^{x}$
-- ==simplify a fractional limit by taking the derivative of numerator and denominator separately, called rule of De l$'$ Hospital==  $$\begin{align*}&\text{if f(a) and g(a) are equal to zero \quad } \\ & \lim_{x \to a} \dfrac{f(x)}{g(x)} =\lim_{x \to a} \dfrac{f'(x)}{g'(x)}\end{align*}$$
+- ==simplify a fractional limit by taking the derivative of numerator and denominator separately, called rule of De l$'$ Hopital==  $$\begin{align*}&\text{if f(a) and g(a) are equal to zero \quad } \\ & \lim_{x \to a} \dfrac{f(x)}{g(x)} =\lim_{x \to a} \dfrac{f'(x)}{g'(x)}\end{align*}$$
   >[!question]- Evaluate the limit: $lim_{x→3} \dfrac{​x^{2}−9}{x−3}​$. 
 >a)0$\qquad$b)undefined$\qquad$**c)6**$\qquad$d)3
   

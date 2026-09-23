@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/z-semester-1/functional-english/"}
 ---
 
-1## verbs
+## verbs
 - static: action that is not concrete like feelings, emotion,  etc
 - action:
 ## conjuctions
